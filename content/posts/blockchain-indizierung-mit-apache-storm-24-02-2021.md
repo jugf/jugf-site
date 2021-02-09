@@ -6,6 +6,8 @@ featured_image: ""
 description: ""
 ---
 
+Upcoming:
+
 _Dezentrale Blockchains - Zentral indizieren?_ Zwei konträre Konzepte miteinander zu vereinen gab es sicher schon oft, dennoch besteht bei diesen beiden Konzepten noch das Problem der Datenmenge und Echtzeitanforderungen im Raum. Mit Apache Storm wurde eine flexible und schnelle Abarbeitung der Informationen die aktuelle Blockchains emittieren ermöglicht und schafft es als Bindeglied verschiedene Technologien einfach zu verbinden.  
 
 Es wird kurz veranschaulicht wie Storm in einem Message-Processing Umfeld mit Kafka als Quelle und ElasticSearch als Storage eingesetzt werden kann und anhand eines einfachen Live-Beispiel die Kernkonzepte von Storm erläutert.
@@ -23,4 +25,3 @@ Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname an
 
 Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
 Eine Aufzeichnung findet nicht statt.
-
