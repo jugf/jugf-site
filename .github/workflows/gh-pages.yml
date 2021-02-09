@@ -24,7 +24,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUB_TOKEN }}
         EXTERNAL_REPOSITORY: jugf/jugf.github.io
         PUBLISH_BRANCH: main
         PUBLISH_DIR: ./public
