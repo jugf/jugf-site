@@ -23,11 +23,14 @@ jobs:
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.GITHUB_TOKEN }}
-        EXTERNAL_REPOSITORY: jugf/jugf.github.io
-        PUBLISH_BRANCH: main
-        PUBLISH_DIR: ./public
+
       with:
-        emptyCommits: false
-        commitMessage: ${{ github.event.head_commit.message }}
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: jugf/jugf.github.io
+          publish_dir: ./public
+          #   keep_files: true
+          user_name: ice09
+          user_email: alexander.culum@web.de
+          publish_branch: main
+          # cname: jugf.de
+          commitMessage: ${{ github.event.head_commit.message }}
