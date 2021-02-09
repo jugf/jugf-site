@@ -1,4 +1,4 @@
-baseURL = "http://jugf.de/"
+baseURL = "http://jugf.github.io/"
 languageCode = "en-us"
 title = "Main"
 theme = "ananke"
