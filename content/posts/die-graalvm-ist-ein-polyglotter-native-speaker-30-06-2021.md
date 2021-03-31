@@ -1,5 +1,5 @@
 ---
-title: "28.04.2021: Die GraalVM ist ein polyglotter native Speaker"
+title: "30.06.2021: Die GraalVM ist ein polyglotter native Speaker"
 date: 2021-01-11T10:41:52+01:00
 draft: false
 featured_image: ""
