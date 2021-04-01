@@ -6,6 +6,8 @@ featured_image: ""
 description: ""
 ---
 
+**Update 01.04.: Die Folien zum Vortrag sind hier: [Resilience Patterns - JUGF 2021.pdf](/res/Resilience Patterns - JUGF 2021.pdf)**
+
 Die Zeiten in denen eine Anwendung aus einem einzelnen großen Artefakt besteht, scheinen vorbei zu sein. Unter anderem im Zuge der verstärkten Containerisierung mit Docker & Co wird es immer beliebter, Anwendungen aus mehreren möglichst unabhängigen Artefakten zusammenzustellen, die über Prozessgrenzen miteinander kommunizieren. Diese Architektur ermöglicht eine schnellere Weiterentwicklung und eine elastische Anpassung an wechselnde Lastanforderungen. Falls nun eine Vielzahl an kleineren Anwendungen eine gemeinsame Aufgabe erfüllen sollen, wird ein fehlerfreies Gesamtsystem allerdings zunehmend unwahrscheinlicher.
 
 Beim Resilient Software Design versuchen wir daher nicht mehr die Fehler zu vermeiden, sondern nehmen sie stattdessen als unvermeidbaren Teil der Software hin. Wir konzentrieren unsere Entwicklungsbemühungen auf eine möglichst schnelle und automatisierte Fehlerbehebung, um das Gesamtsystem somit widerstandsfähiger gegenüber Fehlern zu machen.

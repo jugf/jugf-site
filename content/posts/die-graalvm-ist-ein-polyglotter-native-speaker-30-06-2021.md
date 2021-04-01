@@ -6,8 +6,6 @@ featured_image: ""
 description: ""
 ---
 
-**Update 01.04.: Die Folien zum Vortrag sind hier: [Resilience Patterns - JUGF 2021.pdf](/res/Resilience Patterns - JUGF 2021.pdf)**
-
 Die GraalVM ist eine - gar nicht mal so neue - Java VM, die Schritt für Schritt immer mehr Produktionsreife und Popularität bei Entwicklern und Architekten gewinnt. Graal macht vor allem zwei Aspekte anders als die altbekannte HotspotVM:
 
 Die Zukunft der JVM ist polyglott! Das wurde bereits mit Java 7 verkündet. Mit der GraalVM gewinnt viele Jahre später eine neue Java VM an Popularität, die sich ebenfalls das Thema polyglotte Programmierung auf die Fahne geschrieben hat. Sprachen müssen für die GraalVM nicht mehr zwingend in Bytecode übersetzt werden, sondern können auch mittels des neuen Interpreter-Frameworks Truffle implementiert werden. Auch die Interaktion zwischen Sprachen findet nicht mehr nur auf Bytecode-Ebene statt, sondern auch über eine neue Polyglott-API.
