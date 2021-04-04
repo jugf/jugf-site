@@ -21,7 +21,7 @@ Schulungsveranstaltungen sowie bei User Groups._
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](http://bit.ly/java_collections) an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/EtdjjdXx9dzTLJji) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
