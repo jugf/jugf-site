@@ -1,6 +1,6 @@
 ---
 title: "29.04.2021: Wie gut kennst Du das Collections Framework?"
-date: 2021-01-10T10:41:52+01:00
+date: 2021-01-11T10:40:52+01:00
 draft: false
 featured_image: ""
 description: ""
