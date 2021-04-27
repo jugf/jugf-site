@@ -19,7 +19,7 @@ _Christian Kümmel beschäftigt sich seit über 10 Jahren mit Java und ist seit 
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/szs5k9QBhnXVgqF7) an._
 
-Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting, Anmeldung per jugf/duke) statt.
+Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting), Anmeldung per jugf/duke, statt.
 
 Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
 
