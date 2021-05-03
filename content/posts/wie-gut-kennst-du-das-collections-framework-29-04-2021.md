@@ -6,6 +6,8 @@ featured_image: ""
 description: ""
 ---
 
+**Update 03.05.: Die Folien zum Vortrag sind hier: [20210429_Frotscher-Collections-Framework.pdf](/res/20210429_Frotscher-Collections-Framework.pdf)**
+
 HashMap und ArrayList kennt jeder, na klar. Aber wann stellen sie eigentlich die richtige Wahl dar? Und vor allem: Wann
 nicht? Das Collections Framework enthält zahlreiche, zum Teil recht spezialisierte Implementierungen, doch viele
 Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist
