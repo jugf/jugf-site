@@ -14,7 +14,7 @@ _Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/1ftLUfn4rfEOMLvk) an._
 
-Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting), Anmeldung per *jugf/duke*, statt.
+Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting) statt.
 
 Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
 
