@@ -1,6 +1,6 @@
 ---
 title: "16.06.2021: Why Don't They Just...?! The Deliberations Behind Evolving Java"
-date: 2021-01-11T10:40:52+01:00
+date: 2021-01-11T10:40:56+01:00
 draft: false
 featured_image: ""
 description: ""
@@ -20,11 +20,11 @@ There are many nifty features that Java could have but doesn't. Why, though, how
 
 After this talk, you'll know. And have gained insight into the deliberations behind the decisions that evolve Java and why nothing can "just" be implemented.
 
-About Nicolai Parlog: I'm nipafx, but you can call me Nicolai 😉, a Java enthusiast with a passion for learning and sharing. I'm a Java Developer Advocate at Oracle and organizer of Accento.
+_About Nicolai Parlog: I'm nipafx, but you can call me Nicolai 😉, a Java enthusiast with a passion for learning and sharing. I'm a Java Developer Advocate at Oracle and organizer of Accento._
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/XNbWtv1rkX1lcps1) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting) statt.
 
