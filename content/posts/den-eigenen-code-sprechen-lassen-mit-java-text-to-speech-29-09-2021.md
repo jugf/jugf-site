@@ -11,7 +11,7 @@ In diesem Vortrag zeigt Pascal mit Mary Text-To-Speech dies näher auf.
 Mary ist eine in Java geschriebene Open Source Plattform. Die Sprachausgabe lässt sich für verschiedene Stimmen und Sprachen anwenden.  
 Neben Programmcode stellt Pascal außerdem noch eines seiner Open Source Projekte vor, bei dem Mary mit mehreren Stimmen zum Einsatz kommt.
 
-_Pascal Moll ist freiberuflicher Berater und Java-Entwickler. Seine Schwerpunkte liegen im Bereich des Testmanangements und Testautomatisierung von Web - und Desktopapplikationen insbesondere SAP. Neben seiner Beratertätigkeit ist er auch freiberuflicher Trainer für Cucumber und Selenium Schulungen. Mehr Informationen finden Sie auf [www.pmo-it.de]._
+_Pascal Moll ist freiberuflicher Berater und Java-Entwickler. Seine Schwerpunkte liegen im Bereich des Testmanangements und Testautomatisierung von Web - und Desktopapplikationen insbesondere SAP. Neben seiner Beratertätigkeit ist er auch freiberuflicher Trainer für Cucumber und Selenium Schulungen. Mehr Informationen finden Sie auf www.pmo-it.de_
 
 ## Ablauf 
 
