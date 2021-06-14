@@ -20,6 +20,8 @@ There are many nifty features that Java could have but doesn't. Why, though, how
 
 After this talk, you'll know. And have gained insight into the deliberations behind the decisions that evolve Java and why nothing can "just" be implemented.
 
+_Note: The talk will be in German_
+
 _About Nicolai Parlog: I'm nipafx, but you can call me Nicolai 😉, a Java enthusiast with a passion for learning and sharing. I'm a Java Developer Advocate at Oracle and organizer of Accento._
 
 ## Ablauf 
