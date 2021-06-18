@@ -6,7 +6,9 @@ featured_image: ""
 description: ""
 ---
 
-*Update 18.06.: Die Slides zum Vortrag sind hier: https://slides.nipafx.dev/just/2021-06-16-jug-ffm*
+*Update 18.06.*
+* Die Slides zum Vortrag sind hier: https://slides.nipafx.dev/just/2021-06-16-jug-ffm
+* Rabattcode (20%) zu Accento am 28./29.09. in Karlsruhe (https://accento.dev/): AccJUGFFM21
 
 There are many nifty features that Java could have but doesn't. Somewhat surprisingly, there are reasons for that and in this talk I'll discuss those for a few concrete cases as well as the deliberations behind such decisions.
 
