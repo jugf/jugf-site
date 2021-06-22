@@ -6,11 +6,13 @@ featured_image: ""
 description: ""
 ---
 
-Aufgrund regulatorischer Anforderungen sind Finanzinstitute seit 2019 verpflichtet Services über APIs für Drittanbieter bereitzustellen. Die Einführung dieser APIs stellt die Finanzinstitute bis heute vor große Herausforderungen und führt zu einem Wandel in den Geschäftsmodellen der Banken. Mit einem API-first Ansatz können die Finanzinstitute ihre IT-Landschaft an diese neuen Herausforderungen anpassen, Datensilos öffnen und ihr digitales Eco-System erweitern. So sind sie in der Lage nicht nur die regulatorischen Anforderungen zu erfüllen sondern auch auf Basis moderner Architekturen leichter und schneller interne und externe Services bereitzustellen.
+Aufgrund regulatorischer Anforderungen sind Finanzinstitute seit 2019 verpflichtet Services über APIs für Drittanbieter bereitzustellen. Die Einführung dieser APIs stellt die Finanzinstitute bis heute vor große Herausforderungen und führt zu einem Wandel in den Geschäftsmodellen der Banken. 
+
+Mit einem API-first Ansatz können die Finanzinstitute ihre IT-Landschaft an diese neuen Herausforderungen anpassen, Datensilos öffnen und ihr digitales Eco-System erweitern. So sind sie in der Lage nicht nur die regulatorischen Anforderungen zu erfüllen sondern auch auf Basis moderner Architekturen leichter und schneller interne und externe Services bereitzustellen.
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/dhEBOUTCPxCLGejU) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting) statt.
 
