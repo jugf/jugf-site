@@ -5,6 +5,7 @@ draft: false
 featured_image: ""
 description: ""
 ---
+*Update 06.07.: Die Folien sind hier: https://speakerdeck.com/mrtnlhmnn/die-graalvm-ist-ein-polyglotter-native-speaker Zusätzlich gibt es noch die Repos mit den Beispielen: https://github.com/accso/graalvm-polyglot und https://github.com/accso/graalvm-native*
 
 Die GraalVM ist eine - gar nicht mal so neue - Java VM, die Schritt für Schritt immer mehr Produktionsreife und Popularität bei Entwicklern und Architekten gewinnt. Graal macht vor allem zwei Aspekte anders als die altbekannte HotspotVM:
 
