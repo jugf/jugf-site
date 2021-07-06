@@ -10,7 +10,7 @@ Aufgrund regulatorischer Anforderungen sind Finanzinstitute seit 2019 verpflicht
 
 Mit einem API-first Ansatz können die Finanzinstitute ihre IT-Landschaft an diese neuen Herausforderungen anpassen, Datensilos öffnen und ihr digitales Eco-System erweitern. So sind sie in der Lage nicht nur die regulatorischen Anforderungen zu erfüllen sondern auch auf Basis moderner Architekturen leichter und schneller interne und externe Services bereitzustellen.
 
-*Maxim ist seit fünf Jahren als Senior IT Consultant für die msgGillardon AG tätig und arbeitet an diversen Projekten für Kunden aus dem Banken- und Finanzsektor.
+*Maxim Sorokin ist seit fünf Jahren als Senior IT Consultant für die msgGillardon AG tätig und arbeitet an diversen Projekten für Kunden aus dem Banken- und Finanzsektor.
 Seine Kernthemen sind Konzeption und Umsetzung von Individuallösungen auf Java-Basis.*
 
 ## Ablauf 
