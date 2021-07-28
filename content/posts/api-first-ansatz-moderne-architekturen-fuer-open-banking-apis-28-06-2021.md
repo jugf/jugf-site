@@ -19,6 +19,8 @@ _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/dhEBOUTCPxCLGej
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [DNB-Server](http://meet.dnb.de/raum/jugfmeeting) statt.
 
+Als Backup nutzen wir den [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting).
+
 Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
 
 Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
