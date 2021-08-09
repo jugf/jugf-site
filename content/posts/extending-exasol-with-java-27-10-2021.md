@@ -1,6 +1,6 @@
 ---
 title: "27.10.2021: Extending Exasol with Java"
-date: 2021-08-09T10:41:54+01:00
+date: 2021-08-09T08:41:54+01:00
 draft: false
 featured_image: ""
 description: ""
