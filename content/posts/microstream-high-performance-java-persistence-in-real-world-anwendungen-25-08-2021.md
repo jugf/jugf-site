@@ -17,7 +17,7 @@ _Christian Kümmel beschäftigt sich seit über 10 Jahren mit Java und ist seit 
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/szs5k9QBhnXVgqF7) an._
+_Bitte meldet euch bei [Nuudel](https://nuudel.digitalcourage.de/szs5k9QBhnXVgqF7) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

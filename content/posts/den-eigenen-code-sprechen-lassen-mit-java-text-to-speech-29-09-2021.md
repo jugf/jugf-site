@@ -15,7 +15,7 @@ _Pascal Moll ist freiberuflicher Berater und Java-Entwickler. Seine Schwerpunkte
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/nsqczalsbObtENkQ) an._
+_Bitte meldet euch bei [Nuudel](https://nuudel.digitalcourage.de/nsqczalsbObtENkQ) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

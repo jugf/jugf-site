@@ -16,7 +16,7 @@ In dieser Demonstration zeigen wir, wie man Exasol mit Java um eine nutzerdefini
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/lr6dIpyA6ALPgPW1) an._
+_Bitte meldet euch bei [Nuudel](https://nuudel.digitalcourage.de/lr6dIpyA6ALPgPW1) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
