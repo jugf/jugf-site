@@ -1,6 +1,6 @@
 ---
 title: "27.10.2021: Extending Exasol with Java"
-date: 2021-08-09T08:41:54+01:00
+date: 2021-08-08T08:41:54+01:00
 draft: false
 featured_image: ""
 description: ""
@@ -16,7 +16,7 @@ In dieser Demonstration zeigen wir, wie man Exasol mit Java um eine nutzerdefini
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei Nuudle an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
