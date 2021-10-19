@@ -1,6 +1,6 @@
 ---
 title: "24.11.2021: Property-based Testing mit Java"
-date: 2021-10-19T10:41:54+01:00
+date: 2021-10-18T10:41:54+01:00
 draft: false
 featured_image: ""
 description: ""
