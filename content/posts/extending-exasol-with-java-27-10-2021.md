@@ -6,6 +6,8 @@ featured_image: ""
 description: ""
 ---
 
+**Update 28.10.2021: Die Folien zum Vortrag sind [hier](/res/20211027_Extending_Exasol_with_Java.pdf) (Github-Repos sind dort enthalten)**
+
 Exasol ist eine verteilte analytische In-memory-Datenbank. Kunden und Partner verwenden Schnittstellen in vielen Programmiersprachen, um Exasol zu erweitern.
 Java ist die im Enterprise-Bereich beliebteste Schnittstelle.
 
