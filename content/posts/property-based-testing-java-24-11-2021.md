@@ -5,6 +5,7 @@ draft: false
 featured_image: ""
 description: ""
 ---
+**Update 25.11.2021: Link zu den Folien: https://johanneslink.net/downloads/PropertyTesting-JUGF.pdf und zum Blogpost: https://johanneslink.net/model-based-testing/**
 
 Testgetriebene Entwicklung in Java und anderen objektorientierten Sprachen setzt bislang meist auf beispielbasierte Testfälle, wie man sie leicht mit JUnit und ähnlichen Testframeworks erstellen kann.
 Schaut man jedoch über den Tellerrand und auf funktionale Programmiersprachen wie z.B. Haskell oder F#, findet man dort etwas anderes: Property-basiertes Testen (engl. Property-based Testing).
