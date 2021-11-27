@@ -15,11 +15,9 @@ Dieser Vortrag richtet sich vornehmlich an Einsteiger:innen und Personen mit ers
 
 _Alexander Schwartz arbeitet als Berater. Er hilft Organisationen und Teams die richtigen Architekturentscheidungen zu treffen. Um wartbare Software zu bauen, unterstützt er mit Best Practices und passenden Werkzeugen. Er geht mit gutem Beispiel voran, um echte agile Prozesse zu leben und ist immer neugierig geblieben. Technologisch geht es meist um JavaScript-Frontends, Java-Backends, Kubernetes und wie man es passend betreiben kann. Auf Konferenzen und bei User Groups spricht er über seine Erfahrungen._
 
-_
-
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/qHsXdfOAvtp6cxKw) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
