@@ -3,7 +3,7 @@ title: "22.12.2021: Kubernetes Murder Mystery"
 date: 2021-11-27T01:00:00+01:00
 draft: false
 featured_image: ""
-description: ""
+description: "Kubernetes Murder Mystery"
 ---
 
 Die Cloud ist eine Ansammlung von Computern anderer Leute, und Kubernetes ist eine populäre Lösung, Anwendungen auf einer Gruppe von Rechnern laufen zu lassen. 
