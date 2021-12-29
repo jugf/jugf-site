@@ -26,7 +26,7 @@ _Gerd Aschemann (@GerdAschemann) arbeitet kontinuierlich daran, die Grenze zwisc
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/EOFDH1CDHdjKmWJp) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
