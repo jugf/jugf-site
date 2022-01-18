@@ -1,5 +1,5 @@
 ---
-title: "26.01.2021: Hands-on mit Quarkus"
+title: "26.01.2022: Hands-on mit Quarkus"
 date: 2021-12-20T01:00:00+01:00
 draft: false
 featured_image: ""

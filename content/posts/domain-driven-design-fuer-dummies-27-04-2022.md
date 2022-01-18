@@ -1,5 +1,5 @@
 ---
-title: "27.04.2021: Domain-driven Design für Dummies"
+title: "27.04.2022: Domain-driven Design für Dummies"
 date: 2021-12-29T03:00:00+01:00
 draft: false
 featured_image: ""

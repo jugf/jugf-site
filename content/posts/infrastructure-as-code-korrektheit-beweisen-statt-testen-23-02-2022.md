@@ -1,5 +1,5 @@
 ---
-title: "23.02.2021: Infrastructure as Code – Korrektheit beweisen statt testen"
+title: "23.02.2022: Infrastructure as Code – Korrektheit beweisen statt testen"
 date: 2021-12-29T01:00:00+01:00
 draft: false
 featured_image: ""
