@@ -1,22 +1,23 @@
 ---
-title: "27.04.2022: Domain-driven Design für Dummies"
-date: 2021-12-29T03:00:00+01:00
+title: "30.03.2022: Domain-driven Design für Dummies"
+date: 2021-12-29T02:59:00+01:00
 draft: false
 featured_image: ""
-description: "Domain-driven Design für Dummies"
+description: "Easy-Rider: Unit-Tests für datengetriebene Komponenten mit DB-Rider"
 ---
 
-Auch wenn das gleichnamige Buch von Eric Evans bereits 2003 erschienen ist, so ist Domain Driven Design gerade wieder hoch aktuell und nicht zuletzt durch den Trend zu Microservices Architekturen immer noch sehr relevant. Ziel von DDD ist die möglichst realitätsnahe Abbildung der Fachlichkeit und des Domainwissens in der Software. Das Entwickeln einer gemeinsamen domänengetriebenen Fachsprache hilft bei der Überbrückung von Kommunikationsproblemen zwischen den Fachanwendern und den Softwareentwicklern.
+Software altert nicht durch Abnutzung wie Werkzeuge oder Gebäude, sondern durch Erweiterungen und das Einfügen von Änderungen. Die beste Absicherung ist ein weitsichtiges Design und eine breite Abdeckung mit Tests, die einzelne Funktionen in Isolation automatisch prüfen. Leider ist es immer noch nicht für alle Teile einer Applikation leicht gute Tests zu erstellen. Das galt lange Zeit für die Datenzugriffsschicht, die eng mit einer Datenbank interagiert.  
+Zum Glück gibt es Frameworks, die uns helfen auch diese Teile einer Applikation zu verifizieren, wie zum Beispiel DB-Rider (https://github.com/database-rider/database-rider).   
 
-In diesem Vortrag wollen wir einen Blick auf die Konzepte und Muster wie Context Mapping, Bounded Contexts, Domain Events und die internen Building Blocks wie Aggregate, Entities, Value Objects, Repositories usw. werfen. Das Ziel ist die Erstellung einer qualitativ hochwertigen Software mit einer einheitlichen und ausdrucksstarken Architektur.
+Dieser Vortrag stellt das Framework mit seinen Grundlagen und Features an Beispielen vor. Das Life-Coding zeigt das gezielte Erstellen von Unit-Tests für datengetriebene Komponenten und wie das Werkzeug in den Entwicklungsprozess integriert werden kann.
 
-_Lernziele: DDD kennenlernen, Muster und Best Practices von DDD einordnen können, Vorteile eines Software Entwurfs nach DDD erkennen_
+_Seit über 18 Jahren ist Heiko Spindler als Softwareentwickler und Softwarearchitekt in vielen Projekten unterschiedlicher Branchen tätig. Er ist seit 2008 zertifizierter ScrumMaster (CSM) gemäß ScrumAlliance. Er ist seit 2007 Dozent an der Fachhochschule Gießen-Friedberg, schreibt regelmäßig für Fachmagazine und präsentiert neue Entwicklungen auf Konferenzen. Sein Buch über Single-Page-Web-Apps ist seit April 2014 verfügbar._
 
-_Falk Sippach ist bei der embarc Software Consulting GmbH als Softwarearchitekt, Berater und Trainer stets auf der Suche nach dem Funken Leidenschaft, den er bei seinen Teilnehmern, Kunden und Kollegen entfachen kann. Bereits seit über 15 Jahren unterstützt er in meist agilen Softwareentwicklungsprojekten im Java-Umfeld. Als aktiver Bestandteil der Community (Mitorganisator der JUG Darmstadt) teilt er zudem sein Wissen gern in Artikeln, Blog-Beiträgen, sowie bei Vorträgen auf Konferenzen oder User-Group-Treffen und unterstützt bei der Organisation diverser Fachveranstaltungen._
+__
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/CthYf23OzBbgNETx) an._
+_Bitte meldet euch bei Nuudle an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
