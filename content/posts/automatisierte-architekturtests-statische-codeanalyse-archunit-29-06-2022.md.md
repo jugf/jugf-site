@@ -16,7 +16,9 @@ Dieselbe API von ArchUnit kann man aber auch für statische Codeanalyse einsetze
 
 ArchUnit lässt sich demnach für kleine, mittlere und komplexe Fragestellungen einsetzen. Das skaliert gut und ermöglicht eine leichtgewichtige und automatisierte Absicherung von Architekturentscheidungen.
 
-_Martin Lehmann, Kristine Schaal_
+_Martin Lehmann ist Diplom-Informatiker und arbeitet als Cheftechnologe und Softwarearchitekt bei der Accso – Accelerated Solutions GmbH. Seit Ende der 90er Jahre wirkt er als Softwareentwickler und -architekt in der Softwareentwicklung in diversen Projekten der Individualentwicklung für Kunden verschiedener Branchen. Seit den Zeiten von Java 1.0 beschäftigt er sich mit Java als Programmiersprache und als Ökosystem._
+
+_Dr. Kristine Schaal ist als Softwarearchitektin bei der Accso – Accelerated Solutions GmbH tätig. Sie arbeitet seit fast 20 Jahren in der Softwareentwicklung und ist in Projekten der Individualentwicklung für Kunden verschiedener Branchen unterwegs, technisch überwiegend im Java-Umfeld._
 
 ## Ablauf 
 
