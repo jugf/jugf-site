@@ -6,6 +6,8 @@ featured_image: ""
 description: "DDD und hexagonale Architektur in der Bank"
 ---
 
+**Update 01.06.2022: Die Folien von Konnis Vortrag sind der Seite angehängt: [DDD_hexagonale_Architektur_Andreas_Konrad.pdf](/res/20220525_DDD_hexagonale_Architektur_Andreas_Konrad.pdf)**
+
 Wenn man auf Konferenzen unterwegs ist, bekommt man schnell den Eindruck, Domain Driven Design sei ein alter Hut. Ich bin überzeugt, dass das für viele Entwickler noch nicht der Fall ist. Speziell in einigen Branchen wird eher auf Stabilität und Bekanntes gesetzt, als neue Technologien und Methoden. Das erlebe ich persönlich in meinem Beruf und im Austausch mit Kollegen aus anderen Firmen. Auch bei der JUGF wird es im April einen Vortrag geben, der sich erst einmal grundsätzlich mit dem Thema DDD auseinander setzt.
 
 In meinem Vortrag möchte ich deswegen von den Erfahrungen unseres Teams mit DDD bei der Entwicklung einer Anwendung (Spring Boot + React) berichten, die von Banken deutschlandweit eingesetzt wird. Sowohl für das Team, als auch die Firma war das Neuland. Ich werde erklären wie wir vorgegangen sind, welche Architektur entstanden ist und wie wir DDD Konzepte umgesetzt haben.  
