@@ -16,6 +16,6 @@ _Oliver Drotbohm ist Teil des Spring Engineering Teams bei VMware. Seit über 15
 
 ## Ablauf 
 
-_Bitte meldet euch zur besseren Planung möglichst frühzeitig bei [Nuudle]() an._
+_Bitte meldet euch zur besseren Planung möglichst frühzeitig bei [Nuudle](https://nuudel.digitalcourage.de/93jlzknaeliRhhwr) an._
 
 Der JUGF-Stammtisch findet bei der **[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt), Lise-Meitner-Straße 4, 60486 Frankfurt am Main** ab 18:30 statt.
