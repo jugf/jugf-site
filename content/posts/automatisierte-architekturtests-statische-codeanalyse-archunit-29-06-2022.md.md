@@ -6,6 +6,8 @@ featured_image: ""
 description: "Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
 ---
 
+**Update 28.06.: Die Veranstaltung muss krankheitsbedingt leider entfallen!**
+
 Im Architektur-Entwurf treffen wir viele Architekturentscheidungen, im besten Fall explizit, dokumentiert und verstanden. Dieser Prozess ist aufwändig und mühsam, mit der Folge, dass viele Entscheidungen meist nur implizit getroffen werden und dann in Vergessenheit geraten.  
 
 Eine automatisierte Überprüfung solcher Architekturentscheidungen hilft hier weiter:
