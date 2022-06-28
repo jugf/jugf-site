@@ -1,9 +1,9 @@
 ---
-title: "29.06.2022 Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
+title: "29.06.2022 VERSCHOBEN: Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
 date: 2022-05-22T03:00:00+01:00
 draft: false
 featured_image: ""
-description: "Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
+description: "VERSCHOBEN: Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
 ---
 
 **Update 28.06.: Die Veranstaltung muss krankheitsbedingt leider entfallen!**
