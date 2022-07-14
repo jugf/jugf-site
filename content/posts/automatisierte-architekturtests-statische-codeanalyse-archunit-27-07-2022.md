@@ -26,7 +26,7 @@ _Dr. Kristine Schaal ist als Softwarearchitektin bei der Accso – Accelerated S
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/b2XGgcaGS3mRc57n) an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/rUFYhtKDfm8AaMm5) an._
 
 Dies ist eine Präsenzveranstaltung bei Accso: Rahmhofstraße 2 (2 Fussminuten von der Hauptwache, bei der Börse), siehe https://accso.de/kontakt/#unsere-standorte
 
