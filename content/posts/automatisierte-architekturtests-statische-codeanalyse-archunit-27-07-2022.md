@@ -6,7 +6,7 @@ featured_image: ""
 description: "Automatisierte Architekturtests und statische Codeanalyse mit ArchUnit"
 ---
 
-**Dies ist eine Präsenzveranstaltung, siehe #Ablauf**
+**Dies ist eine Präsenzveranstaltung, siehe "Ablauf"**
 
 Im Architektur-Entwurf treffen wir viele Architekturentscheidungen, im besten Fall explizit, dokumentiert und verstanden. Dieser Prozess ist aufwändig und mühsam, mit der Folge, dass viele Entscheidungen meist nur implizit getroffen werden und dann in Vergessenheit geraten.  
 
