@@ -20,7 +20,7 @@ _Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/BbdVRCKZXuCy2AaD) an._
 
 Es handelt sich um eine _Präsenzveranstaltung_ bei
 
