@@ -6,6 +6,8 @@ featured_image: ""
 description: "GraalVM EE 22.2 Feature Update und Verbesserungen beim Native Image"
 ---
 
+**Die ist einen Präsenzveranstaltung bei Oracle, Details siehe Ablauf**
+
 Die GraalVM ist eine universelle Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im Juli 2022 wurde die GraalVM 22.2 freigegeben, mit Performance-Verbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. 
 
 Die GraalVM JDK-Basisdistribution mit ihrer Größe der Laufzeitumgebung wurde verkleinert und damit die Download-Zeiten verringert. Mit der Version 22.2 ist die GraalVM-JDK-Basis modularer und enthält nicht mehr die JavaScript-Runtime, die LLVM-Runtime oder VisualVM. Diese Komponenten werden mit `gu install` separat installiert, beispielsweise mit `gu install visualvm`, genauso wie die Native Image-, Python-, Ruby- oder andere GraalVM-Komponenten installiert werden. 
@@ -20,9 +22,12 @@ _Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE
 
 _Bitte meldet euch bei [Nuudle]() an._
 
-Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Freifunk München]() statt.
+Es handelt sich um eine _Präsenzveranstaltung_ bei
 
-Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
+ORACLE Deutschland B.V. & Co. KG
+Neue Mainzer Str. 46-50
+60311 Frankfurt am Main
 
-Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
-Eine Aufzeichnung findet nicht statt.
+[Google Maps](https://goo.gl/maps/1BjunjfTts6seo1e6)
+
+Die Besucher werden im Foyer vom Garden Tower von Wolfgang in Empfang genommen und dann gehen wir gemeinsam in kleinen Gruppen über das Treppenhaus in den zweiten Stock in den Raum _Redwood Shores_.
