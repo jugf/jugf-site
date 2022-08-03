@@ -22,11 +22,11 @@ _Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/BbdVRCKZXuCy2AaD) an._
 
-Es handelt sich um eine _Präsenzveranstaltung_ bei
+Es handelt sich um eine Präsenzveranstaltung bei
 
-ORACLE Deutschland B.V. & Co. KG
-Neue Mainzer Str. 46-50
-60311 Frankfurt am Main
+_ORACLE Deutschland B.V. & Co. KG  
+Neue Mainzer Str. 46-50  
+60311 Frankfurt am Main_
 
 [Google Maps](https://goo.gl/maps/1BjunjfTts6seo1e6)
 
