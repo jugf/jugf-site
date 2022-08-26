@@ -6,7 +6,7 @@ featured_image: ""
 description: "GraalVM EE 22.2 Feature Update und Verbesserungen beim Native Image"
 ---
 
-**Die ist einen Präsenzveranstaltung bei Oracle, Details siehe Ablauf**
+**Dies ist einen Präsenzveranstaltung bei Oracle, Details siehe Ablauf**
 
 Die GraalVM ist eine universelle Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im Juli 2022 wurde die GraalVM 22.2 freigegeben, mit Performance-Verbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. 
 
