@@ -24,7 +24,7 @@ In den Vortrag fließen praktischen Erfahrungen aus dem AsciiDoc-IntelliJ-Plug-i
 * Möglichkeiten der Automatisierung
 * Einstiegspunkte in die Dokumentation
 
-_Alexander Schwartz (@ahus1de) arbeitet als Principal Software Engineer bei Red Hat. Beruflich und privat entwickelt er Open-Source-Software, zusätzlich bringt er die Erfahrung als Softwarearchitekt und IT-Berater mit. Auf Konferenzen und bei User Groups spricht er über JavaScript-Frontends, Java-Backends, Kubernetes, APIs und wie man es passend betreiben kann._
+_[Alexander Schwartz](https://www.ahus1.de/) ([@ahus1de](https://twitter.com/ahus1de)) arbeitet als Principal Software Engineer bei Red Hat. Beruflich und privat entwickelt er Open-Source-Software, zusätzlich bringt er die Erfahrung als Softwarearchitekt und IT-Berater mit. Auf Konferenzen und bei User Groups spricht er über JavaScript-Frontends, Java-Backends, Kubernetes, APIs und wie man es passend betreiben kann._
 
 ## Ablauf 
 
