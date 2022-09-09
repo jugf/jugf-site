@@ -6,7 +6,7 @@ featured_image: ""
 description: "Real-time Fraud Detection: Challenges and Solutions"
 ---
 
-*This talk will be in english.*
+**This talk will be in english.**
 
 Fraud can be considerably reduced via speed, scalability, and stability. Investigating fraudulent activities, using fraud detection machine learning is crucial where decisions need to be made in microseconds, not seconds or even milliseconds. This becomes more challenging when things get demanding and scaling real-time fraud detection becomes a bottleneck. The talk will address these issues and provide solutions using the Hazelcast Open Source platform.
 
@@ -14,7 +14,7 @@ _Fawaz Ghali is a Developer Advocate at Hazelcast with 20+ years’ experience i
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/tp4lTLMdKFn5wnjY) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
