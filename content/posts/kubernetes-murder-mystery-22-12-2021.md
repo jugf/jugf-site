@@ -13,7 +13,7 @@ In diesem interaktiven Vortrag gehen wir gemeinsam verschiedenen Phänomenen auf
 
 Dieser Vortrag richtet sich vornehmlich an Einsteiger:innen und Personen mit ersten Erfahrungen in den Themen Kubernetes und Container. Personen mit mehr Erfahrung in dem Thema werden etwas dazulernen und sind herzlich eingeladen, eigene Kubernetes Mysterys einzubringen.
 
-_Alexander Schwartz arbeitet als Berater. Er hilft Organisationen und Teams die richtigen Architekturentscheidungen zu treffen. Um wartbare Software zu bauen, unterstützt er mit Best Practices und passenden Werkzeugen. Er geht mit gutem Beispiel voran, um echte agile Prozesse zu leben und ist immer neugierig geblieben. Technologisch geht es meist um JavaScript-Frontends, Java-Backends, Kubernetes und wie man es passend betreiben kann. Auf Konferenzen und bei User Groups spricht er über seine Erfahrungen._
+_[Alexander Schwartz](https://www.ahus1.de/) arbeitet als Berater. Er hilft Organisationen und Teams die richtigen Architekturentscheidungen zu treffen. Um wartbare Software zu bauen, unterstützt er mit Best Practices und passenden Werkzeugen. Er geht mit gutem Beispiel voran, um echte agile Prozesse zu leben und ist immer neugierig geblieben. Technologisch geht es meist um JavaScript-Frontends, Java-Backends, Kubernetes und wie man es passend betreiben kann. Auf Konferenzen und bei User Groups spricht er über seine Erfahrungen._
 
 ## Ablauf 
 
