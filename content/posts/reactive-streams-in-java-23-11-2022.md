@@ -19,7 +19,7 @@ _Sigrid Huemer (github: [s1gr1d](https://github.com/s1gr1d)) arbeitet seit 3 Jah
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/lI5CkhedW6DzCAAR) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
