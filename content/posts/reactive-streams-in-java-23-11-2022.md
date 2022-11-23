@@ -6,6 +6,8 @@ featured_image: ""
 description: "Reactive Streams in Java"
 ---
 
+**Update 23.11.: Die Slides sind hier: [20221123_Reactive_Streams_in_Java.pdf](/res/20221123_Reactive_Streams_in_Java.pdf)**
+
 Heutige Applikationen erfordern oft komplexe Abläufe die aufeinander aufbauen und zeitlich voneinander abhängig sind. Diese zeitlich asynchronen Abläufe entziehen sich unserer Kontrolle, was uns in der Regel vor eine große Herausforderung stellt. 
 
 Wie gehen wir also mit Fällen um, die voneinander abhängig sind und zu unbestimmten Zeiten auftreten? 
