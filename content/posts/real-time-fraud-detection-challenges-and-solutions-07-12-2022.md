@@ -1,6 +1,6 @@
 ---
 title: "07.12.2022 Real-time Fraud Detection: Challenges and Solutions"
-date: 2022-09-05T03:00:00+01:00
+date: 2022-11-23T03:00:00+01:00
 draft: false
 featured_image: ""
 description: "Real-time Fraud Detection: Challenges and Solutions"
@@ -19,9 +19,4 @@ _Fawaz Ghali is a Developer Advocate at Hazelcast with 20+ years’ experience i
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/tp4lTLMdKFn5wnjY) an._
 
-Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als Online-Veranstaltung auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
-
-Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
-
-Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
-Eine Aufzeichnung findet nicht statt.
+Der JUGF-Stammtisch findet bei der **[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt), Lise-Meitner-Straße 4, 60486 Frankfurt am Main** ab 18:30 statt.
