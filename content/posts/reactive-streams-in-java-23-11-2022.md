@@ -15,7 +15,7 @@ Das Paradigma der "reaktiven Programmierung" hilft, den Code in mehrere kleine S
 In der Regel spielen dabei Events, die zu unbestimmten Zeitpunkten eintreten, eine große Rolle. 
 Mithilfe des `Flow` Interfaces können seit Java 9 reaktive Patterns in Java eingebunden werden, welches in diesem Vortrag an einem Beispiel vorgestellt wird.
 
-_Sigrid Huemer (github: [s1gr1d](https://github.com/s1gr1d)) arbeitet seit 3 Jahren als Frontend Engineer und schloss gerade ihr Masterstudium in Software Engineering ab. In ihrer Freizeit programmiert sie an eigenen Projekten und beschäftigt sich gerne mit verschiedensten Technologien. Manchmal berichtet sie über diese auch in ihrem Medium Blog ([s1gr1d.medium.com](s1gr1d.medium.com))._
+_Sigrid Huemer (github: [s1gr1d](https://github.com/s1gr1d)) arbeitet seit 3 Jahren als Frontend Engineer und schloss gerade ihr Masterstudium in Software Engineering ab. In ihrer Freizeit programmiert sie an eigenen Projekten und beschäftigt sich gerne mit verschiedensten Technologien. Manchmal berichtet sie über diese auch in ihrem Medium Blog ([s1gr1d.medium.com](https://s1gr1d.medium.com))._
 
 ## Ablauf 
 
