@@ -17,6 +17,12 @@ _Fawaz Ghali is a Developer Advocate at Hazelcast with 20+ years’ experience i
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/tp4lTLMdKFn5wnjY) an._
+_Bitte meldet euch frühzeitig bei [Nuudle](https://nuudel.digitalcourage.de/tp4lTLMdKFn5wnjY) an._
 
-Der JUGF-Stammtisch findet bei der **[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt), Lise-Meitner-Straße 4, 60486 Frankfurt am Main** ab 18:30 statt.
+Der JUGF-Stammtisch findet bei der 
+
+**[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt)**
+**Lise-Meitner-Straße 4**
+**60486 Frankfurt am Main** 
+
+ab 18:30 statt.
