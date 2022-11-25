@@ -21,8 +21,8 @@ _Bitte meldet euch frühzeitig bei [Nuudle](https://nuudel.digitalcourage.de/tp4
 
 Der JUGF-Stammtisch findet bei der 
 
-**[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt)**
-**Lise-Meitner-Straße 4**
+> **[codecentric AG](https://www.codecentric.de/ueber-uns/standorte/frankfurt)**  
+**Lise-Meitner-Straße 4**  
 **60486 Frankfurt am Main** 
 
-ab 18:30 statt.
+ab 18:30 statt, der Zugang ist ausgeschildert.
