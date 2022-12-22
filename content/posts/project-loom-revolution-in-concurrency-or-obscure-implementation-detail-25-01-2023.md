@@ -30,7 +30,7 @@ _Thomasz spent half of his life on programming, for the last decade professional
 
 _Der Vortrag ist auf Englisch!_
 
-_Please sign in at / Bitte meldet euch bei [Nuudle]() an._
+_Please sign in at / Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/jgLzr3kVWhtHLRDC) an._
 
 The talk will start at 6.30pm on / 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
