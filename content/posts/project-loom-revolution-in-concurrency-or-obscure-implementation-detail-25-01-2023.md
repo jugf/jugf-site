@@ -6,6 +6,8 @@ featured_image: ""
 description: "Project Loom: Revolution in concurrency or obscure implementation detail?"
 ---
 
+**Update 25.01.: The slides are here: https://nurkiewicz.com/slides/loom**
+
 **This talk will be in english.**
 
 Project Loom is an effort to bring lightweight threads to the JVM. Such threads have low memory and scheduling footprint so that you can create millions of them. Forget about thread pools. Start creating new threads per each request or connection. Without worrying about memory footprint or context switching. Literally millions of them. Things you can forget about with Loom:
