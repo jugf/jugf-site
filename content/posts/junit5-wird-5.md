@@ -6,7 +6,9 @@ featured_image: ""
 description: "JUnit 5 wird 5"
 ---
 
-Seit dem ersten Release von JUnit 5 im Jahr 2017 sind mittlerweile fast fünf Jahre vergangen. Das JUnit-Team hat danach jedoch keineswegs die Arbeit eingestellt. Im Gegenteil: Seitdem gab es neun weitere Feature- Releases. In diesem Vortrag werden wir uns nach einer kurzen Einführung in JUnit 5 auf die neuen Features der 5.x Releases konzentrieren. Dies sind unter anderem:
+Seit dem ersten Release von JUnit 5 im Jahr 2017 sind mittlerweile fast fünf Jahre vergangen. Das JUnit-Team hat danach jedoch keineswegs die Arbeit eingestellt. Im Gegenteil: Seitdem gab es neun weitere Feature- Releases. In diesem Vortrag werden wir uns nach einer kurzen Einführung in JUnit 5 auf die neuen Features der 5.x Releases konzentrieren. 
+
+Diese sind unter anderem:
 
 * deklarative Test Suites
 * JFR Events
