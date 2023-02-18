@@ -21,7 +21,7 @@ _Marc Philipp hat mehr als 10 Jahre Erfahrung in der Entwicklung von Software f√
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/kjsEnA6Tnyb5CNIY) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk M√ºnchen](https://meet.ffmuc.net/jugfmeeting) statt.
 
