@@ -6,6 +6,8 @@ featured_image: ""
 description: "Tokenisierung von Assets in der Blockchain"
 ---
 
+**Update 22.02.: Die [Folien](/res/20230222_Tokenisierung_von_Assets_in_der_Blockchain_PUB_1.0.pptx) hängen der Seite an.**
+
 Die Tokenisierung von Wertgegenständen ist eines der großen Trendthemen im Finanzdienstleistungssektor. Diese Tokenisierung (digitale Replikation von Werten) eröffnet neue Anlagemöglichkeiten. Wir haben zu diesem Zweck Smart Contracts entwickelt und in eine Spring Boot App mit React UI integriert, welche wir technisch sowie fachlich beleuchten wollen.
 
 _Andreas Meyer-Berg ist IT-Consultant bei msg und ist Software- sowie Blockchain Entwickler. Als Fullstack Software Engineer entwickelte er von Smart Contracts bis hin zum Frontend große Teile der prototypischen Anwendung._
