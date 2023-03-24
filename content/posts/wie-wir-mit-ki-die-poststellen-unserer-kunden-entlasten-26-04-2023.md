@@ -1,7 +1,7 @@
 ---
 title: "26.04.2023 Wie wir mit KI die Poststellen unserer Kunden entlasten"
 date: 2023-03-24T04:00:00+01:00
-draft: false
+draft: true
 featured_image: ""
 description: "Wie wir mit KI die Poststellen unserer Kunden entlasten"
 ---
