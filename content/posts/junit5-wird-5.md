@@ -5,6 +5,7 @@ draft: false
 featured_image: ""
 description: "JUnit 5 wird 5"
 ---
+**Update 29.03.: Folien zum Vortrag: https://speakerdeck.com/marcphilipp/junit-5-wird-5-jug-frankfurt, Repo mit Beispielcode: https://github.com/marcphilipp/junit5-demo/tree/20230329-jug-frankfurt**
 
 Seit dem ersten Release von JUnit 5 im Jahr 2017 sind mittlerweile fast fünf Jahre vergangen. Das JUnit-Team hat danach jedoch keineswegs die Arbeit eingestellt. Im Gegenteil: Seitdem gab es neun weitere Feature- Releases. In diesem Vortrag werden wir uns nach einer kurzen Einführung in JUnit 5 auf die neuen Features der 5.x Releases konzentrieren. 
 

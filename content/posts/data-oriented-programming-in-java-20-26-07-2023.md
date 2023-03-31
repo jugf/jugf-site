@@ -1,7 +1,7 @@
 ---
 title: "26.07.2023: Data-Oriented Programming in Java (20)"
-date: 2023-03-27T04:00:00+01:00
-draft: true
+date: 2023-03-24T06:00:00+01:00
+draft: false
 featured_image: ""
 description: "Data-Oriented Programming in Java (20)"
 ---
