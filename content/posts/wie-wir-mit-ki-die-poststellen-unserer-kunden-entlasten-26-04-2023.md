@@ -22,7 +22,7 @@ _Johannes Voscort: Developer bei codecentric. Nach seinem Master in Wirtschaftsi
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/L2OdqF4Xx5CRjp7r) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

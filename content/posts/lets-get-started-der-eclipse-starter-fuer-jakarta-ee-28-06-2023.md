@@ -22,7 +22,7 @@ _Alexander beschäftigt sich fast seit Anbeginn schon mit Java und nutzt seit ü
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/uYB5k2qQXMG17JCV) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

@@ -21,7 +21,7 @@ _Nicolai Parlog (@nipafx) is a Java enthusiast with a passion for learning and s
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/2TFHIqZS9g4nmrCF) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

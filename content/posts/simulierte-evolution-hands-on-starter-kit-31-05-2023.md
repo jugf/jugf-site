@@ -18,7 +18,7 @@ _Heiko Spindler ist seit vielen Jahren als Softwarearchitekt und Softwareentwick
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/yVi7XihUdY5w8zMe) an._
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5)
 
