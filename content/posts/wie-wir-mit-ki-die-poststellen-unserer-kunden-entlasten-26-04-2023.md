@@ -6,6 +6,8 @@ featured_image: ""
 description: "Wie wir mit KI die Poststellen unserer Kunden entlasten"
 ---
 
+**Update 27.04.: Die Folien sind [hier](/res/20230426_SHERLOQ.pdf)**
+
 Mit Hilfe unserer KI-Plattform SHERLOQ entlasten wir die Poststellen unserer Kunden bei Routine-Aufgaben wie Dokumententrennung, Klassifikation und Extraktion — on premise, integriert in die Kunden-IT, mit maßgeschneiderter und -trainierter KI.
 
 In diesem Vortrag:
