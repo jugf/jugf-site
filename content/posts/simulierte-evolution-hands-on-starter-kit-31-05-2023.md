@@ -20,7 +20,7 @@ _Heiko Spindler ist seit vielen Jahren als Softwarearchitekt und Softwareentwick
 
 Unter allen Anwesenden wird eine Konferenzkarte zur [Accento](https://2023.accento.dev/) verlost. Accento wird von Disy Informationssysteme GmbH in Karlsruhe und Nicolai Parlog, der schon Vorträge bei der JUGF gehalten hat (und im Juli wieder: https://bit.ly/dop_java), veranstaltet.
 
-Die Konferenzthemen sind professionelles Java-, JavaScript and Web Development. Die Konferenz (24./25.10.)bietet eine große Auswahl an inspirierenden Vorträgen, professionellen Sitzungen und fundierten praktischen Schulungen für erfahrene Entwickler und ist auch ein Ort für interessante Diskussionen, neue Ideen und Communities.
+Die Konferenzthemen sind professionelles Java-, JavaScript and Web Development. Die Konferenz (24./25.10.) bietet eine große Auswahl an inspirierenden Vorträgen, professionellen Sitzungen und fundierten praktischen Schulungen für erfahrene Entwickler und ist auch ein Ort für interessante Diskussionen, neue Ideen und Communities.
 
 Generell gewährt Accento einen 50%-Rabatt für JUG-Mitglieder. 
 
