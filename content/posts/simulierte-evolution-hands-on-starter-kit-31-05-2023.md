@@ -16,6 +16,14 @@ Dieser Vortrag zeigt im Live-Coding wie sich simulierte Evolution für Optimieru
 
 _Heiko Spindler ist seit vielen Jahren als Softwarearchitekt und Softwareentwickler in vielen Projekten unterschiedlicher Branchen als Freelancer tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er ist zertifizierter ScrumMaster (CSM ScrumAlliance), zertifizierter Softwarearchitekt und schreibt regelmäßig Artikel._
 
+## Verlosung Accento Konferenzkarte
+
+Unter allen Anwesenden wird eine Konferenzkarte zur [Accento](https://2023.accento.dev/) verlost. Accento wird von Disy Informationssysteme GmbH in Karlsruhe und Nicolai Parlog, der schon Vorträge bei der JUGF gehalten hat (und im Juli wieder zu Besuch ist), veranstaltet.
+
+Die Konferenzthemen sind professionelles Java-, JavaScript and Web Development. Die Konferenz (24./25.10.)bietet eine große Auswahl an inspirierenden Vorträgen, professionellen Sitzungen und fundierten praktischen Schulungen für erfahrene Entwickler und ist auch ein Ort für interessante Diskussionen, neue Ideen und Communities.
+
+Generell gewährt Accento einen 50%-Rabatt für JUG-Mitglieder. 
+
 ## Ablauf 
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/yVi7XihUdY5w8zMe) an._
