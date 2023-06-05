@@ -5,8 +5,9 @@ draft: false
 featured_image: ""
 description: "Simulierte Evolution: Hands-On-Starter Kit"
 ---
+**Update 04.06.: Die Vortragsfolien sind [hier](/res/20230531_Simulierte_Evolution.pdf).**
 
-**Dieser Vortrag findet vor Ort in der Deutschen Nationalbibliothek in Frankfurt statt!**
+_Dieser Vortrag findet vor Ort in der Deutschen Nationalbibliothek in Frankfurt statt!_
 
 Evolution ist ein erstaunlich mächtiger und kreativer Prozess. Dieser hat aus Einzellern komplexe und erfolgreiche Lebewesen und uns Menschen hervorgebracht. In biologischen Systemen dauert die Entwicklung zur nächsten Generation oft Monate oder Jahre. Evolutionäre Prozesse finden nicht nur in der Natur, sondern in vielen Umgebungen statt. 
 
