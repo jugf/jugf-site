@@ -16,15 +16,11 @@ Für das Testing werden die im Spring-Security-Test enthaltenen Annotationen und
 
 Ein tiefgreifendes Verständnis der Spring Security-Architektur wird dabei auch vermittelt.
 
-_Laura Liparulo arbeitet als Senior Fullstack-Entwicklerin und Devops-expertin bei Capgemini Deutschland._
-
-_Sie hat mehrere Erfahrungen mit Java (Version 5 bis 17) und Spring (Boot, Data, Kafka und Security) gesammelt, ist OCP Java 11 zertifiziert und hat sich in den letzen Jahren in Richtung Cybersecurity weiterentwickelt._
-
-_In der Freizeit veröffentlicht sie Artikel auf ihrem Blog und Demo-Projekte auf Github._
+_Laura Liparulo arbeitet als Senior Fullstack-Entwicklerin und Devops-expertin bei Capgemini Deutschland. Sie hat mehrere Jahre Erfahrungen mit Java (Version 5 bis 17) und Spring (Boot, Data, Kafka und Security) gesammelt, ist OCP Java 11 zertifiziert und hat sich in den letzen Jahren in Richtung Cybersecurity weiterentwickelt. In der Freizeit veröffentlicht sie Artikel auf ihrem Blog und Demo-Projekte auf Github._
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/o3a8rbdEcX5JA3vO) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
