@@ -1,9 +1,9 @@
 ---
-title: "26.07.2023: Data-Oriented Programming in Java (20)"
+title: "26.07.2023: Data-Oriented Programming in Java 21"
 date: 2023-03-24T06:00:00+01:00
 draft: false
 featured_image: ""
-description: "Data-Oriented Programming in Java (20)"
+description: "Data-Oriented Programming in Java 21"
 ---
 
 Data-oriented programming models data as data: records for entities and sealed types for alternatives. Combined with pattern matching we can define operations on the data without overloading it with functionality.
