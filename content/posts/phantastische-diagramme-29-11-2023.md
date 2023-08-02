@@ -6,6 +6,8 @@ featured_image: ""
 description: "Phantastische Diagramme und wie du sie selbst erstellst"
 ---
 
+_Dieser Vortrag findet vor Ort in der Deutschen Nationalbibliothek in Frankfurt statt!_
+
 Die wichtigste Aufgabe eines Software-Architekten besteht darin, die Architektur zu kommunizieren.
 
 Neben den textuellen Inhalten gilt es auch, Grafiken zu erstellen. Getreu dem Motto "ein Bild sagt mehr als tausend Worte" helfen Diagramme bei einer effektiven und pragmatischen Dokumentation. Damit sie wirken, müssen sie leicht erfassbar, stets aktuell und korrekt sein..
@@ -22,9 +24,6 @@ _Falk Sippach ist bei der embarc Software Consulting GmbH als Softwarearchitekt,
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/wpbn2NaSJlCpohvV) an._
 
-Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
+Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5)
 
-Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
-
-Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
-Eine Aufzeichnung findet nicht statt.
+Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im Apfelwein Frank.
