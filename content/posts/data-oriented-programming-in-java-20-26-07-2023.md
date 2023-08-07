@@ -6,6 +6,8 @@ featured_image: ""
 description: "Data-Oriented Programming in Java 21"
 ---
 
+**Update: Die Slides zum Vortrag [sind hier.](https://slides.nipafx.dev/patterns/2023-07-26-jug-frankfurt/#/)**
+
 Data-oriented programming models data as data: records for entities and sealed types for alternatives. Combined with pattern matching we can define operations on the data without overloading it with functionality.
 
 In data-oriented programming (DOP), we model data as data and polymorphic behavior with pattern matching. This talk will introduce the concept of DOP and its four principles:
