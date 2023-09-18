@@ -14,7 +14,7 @@ _Als Principal Consultant & People Lead Cloud ist Dr. Alexander Bubeck verantwor
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/Uz1mIPPfTUn2ctRZ) an._
 
 Der JUGF-Stammtisch findet online auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
