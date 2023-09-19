@@ -1,9 +1,9 @@
 ---
-title: "25.10.2023: The power of Cloud Development Kit (CDK): How to get the most out of it"
+title: "25.10.2023: The Power of Cloud Development Kit (CDK): How to get the most out of it"
 date: 2023-08-02T05:00:00+01:00
 draft: false
 featured_image: ""
-description: "The power of Cloud Development Kit (CDK): How to get the most out of it"
+description: "The Power of Cloud Development Kit (CDK): How to get the most out of it"
 ---
 
 _Dieser Vortrag findet vor Ort in der Deutschen Nationalbibliothek in Frankfurt statt!_
