@@ -20,4 +20,4 @@ _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/Uz1mIPPfTUn2ctR
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5)
 
-Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im Apfelwein Frank.
+Geht bitte zum Empfang, ihr bekommt einen Besucherausweis. Der Vortrag beginnt um 18:30 und die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im Apfelwein Frank.
