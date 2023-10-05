@@ -1,7 +1,7 @@
 ---
 title: "22.11.2023: Phantastische Diagramme und wie du sie selbst erstellst"
 date: 2023-08-02T06:00:00+01:00
-draft: true
+draft: false
 featured_image: ""
 description: "Phantastische Diagramme und wie du sie selbst erstellst"
 ---
