@@ -6,6 +6,8 @@ featured_image: ""
 description: "Phantastische Diagramme und wie du sie selbst erstellst"
 ---
 
+**Vortrag wurde auf den 22.11.2023 eine Woche vorverschoben: https://jugf.github.io/posts/phantastische-diagramme-22-11-2023/**
+
 _Dieser Vortrag findet vor Ort in der Deutschen Nationalbibliothek in Frankfurt statt!_
 
 Die wichtigste Aufgabe eines Software-Architekten besteht darin, die Architektur zu kommunizieren.
