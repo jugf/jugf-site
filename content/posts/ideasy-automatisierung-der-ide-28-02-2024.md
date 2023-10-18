@@ -18,7 +18,7 @@ _Jörg Hohwiller ist seit über 20 Jahren begeisterter Entwickler und Designer, 
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/4tHIQaz9G8g7mKUC) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
