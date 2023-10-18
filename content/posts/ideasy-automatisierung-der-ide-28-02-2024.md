@@ -1,7 +1,7 @@
 ---
 title: "28.02.2024: IDEasy & GraalVM – Automatisierung der IDE"
 date: 2023-10-18T06:00:00+01:00
-draft: true
+draft: false
 featured_image: ""
 description: "IDEasy & GraalVM – Automatisierung der IDE"
 ---
