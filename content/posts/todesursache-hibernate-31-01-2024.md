@@ -18,8 +18,8 @@ Aus praktischer Erfahrung zeige ich in diesem Vortrag, wie man:
 
 Wer schon immer mal ein Projekt mit der Hilfe von Java's beliebtestem OR-Mapper zum Scheitern bringen wollte, sollte sich diesen Vortrag nicht entgehen lassen!
 
-_Thorben Janssen löst als freiberuflicher Consultant und Trainer Persistenzprobleme mit JPA und Hibernate. Er ist Autor des Amazon Bestsellers Hibernate Tips - More than 70 solutions to common Hibernate problems (hibernate-tips.com) und internationaler Redner mit 20 Jahren Erfahrung mit JPA und Hibernate.
-Auf thorben-janssen.com schreibt er wöchentlich über Persistenzthemen und hilft Entwicklern im Persistence Hub (persistence-hub.com) ihre Fertigkeiten zu verbessern._
+_Thorben Janssen löst als freiberuflicher Consultant und Trainer Persistenzprobleme mit JPA und Hibernate. Er ist Autor des Amazon Bestsellers Hibernate Tips - More than 70 solutions to common Hibernate problems ([hibernate-tips.com]) und internationaler Redner mit 20 Jahren Erfahrung mit JPA und Hibernate.
+Auf [thorben-janssen.com] schreibt er wöchentlich über Persistenzthemen und hilft Entwicklern im Persistence Hub ([persistence-hub.com]) ihre Fertigkeiten zu verbessern._
 
 ## Ablauf 
 
