@@ -23,7 +23,7 @@ Auf [thorben-janssen.com] schreibt er wöchentlich über Persistenzthemen und hi
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/bYlwhPuHyfCSPz9X) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
