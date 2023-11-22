@@ -24,6 +24,6 @@ _Falk Sippach ist bei der embarc Software Consulting GmbH als Softwarearchitekt,
 
 _Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/wpbn2NaSJlCpohvV) an._
 
-Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5)
+Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText6)
 
 Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im Apfelwein Frank.
