@@ -6,6 +6,8 @@ featured_image: ""
 description: "Write tests you love, not hate"
 ---
 
+**Update 27.03.: Die Folien zum Vortrag sind hier: https://de.slideshare.net/JensHappe/jens-happe-write-tests-you-love-not-hatepdf** 
+
 Tests sind essenziell, um die langfristige Änderbarkeit eines Softwaresystems sicherzustellen. Allerdings gehört das Schreiben von Tests nicht zu den Lieblingsaufgaben der meisten Entwickler. 
 
 Insbesondere wenn Tests viel Boilerplate-Code benötigen, sind sie schwer zu schreiben, schwer zu verstehen und schwer zu warten. Bei Chrono24 haben wir, inspiriert durch Robert C. Martins Ideen, Tests neu gedacht. 
