@@ -16,7 +16,7 @@ _Walery Strauch ist ein erfahrener freiberuflicher Softwareentwickler mit einer 
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/zHL95DlNWFF8rApV) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

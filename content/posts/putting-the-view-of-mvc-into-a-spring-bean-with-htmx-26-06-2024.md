@@ -23,7 +23,7 @@ Creating Spring ViewComponent enabled him to be the youngest Speaker at the larg
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/QG9xEBJCU7FN4iOo) an._
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5)
 
