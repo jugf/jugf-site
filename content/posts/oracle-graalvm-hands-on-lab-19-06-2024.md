@@ -18,7 +18,7 @@ description: "Oracle GraalVM Hands-on-Lab"
 ### Agenda
 
 * Start 14:00 o'clock CET
-* Introduction to Graal Cloud (GraalVM Development Kit GDK, GraalVM, GraalOS) – 15 minutes
+* Introduction to Graal Cloud (Graal Development Kit for Micronaut, GraalVM, GraalOS) – 15 minutes
 * Overview of GDK – 30 minutes
 * GDK Hands-on-Lab – 75 minutes
 * Q&A – 15 minutes
