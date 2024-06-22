@@ -1,6 +1,6 @@
 ---
 title: "26.06.2024: Server-side web applications with Spring and htmx"
-date: 2024-04-27T00:00:01+01:00
+date: 2024-04-27T00:00:02+01:00
 draft: false
 featured_image: ""
 description: "Server-side web applications with Spring and htmx"
