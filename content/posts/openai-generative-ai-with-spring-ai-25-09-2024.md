@@ -10,8 +10,8 @@ In dieser Präsentation werfen wir einen Blick auf OpenAI Large Language Models 
 
 Wir werden uns einige Demos ansehen und uns einen guten Überblick über das neue erstaunliche Spring-Modul verschaffen.
 
-_Laura Liparulo arbeitet als Senior Fullstack-Entwicklerin, Cybersecurity und Devops-expertin bei Capgemini Deutschland._
-_Sie hat mehrere Erfahrungen mit Java (Version 5 bis 21) und Spring gesammelt, ist OCP Java 11 und Spring 2023 zertifiziert und hat sich in den letzen Jahren in Richtung Cybersecurity weiterentwickelt._
+_Laura Liparulo arbeitet als Senior Fullstack-Entwicklerin, Cybersecurity und Devops-expertin bei Capgemini Deutschland._  
+_Sie hat mehrere Erfahrungen mit Java (Version 5 bis 21) und Spring gesammelt, ist OCP Java 11 und Spring 2023 zertifiziert und hat sich in den letzen Jahren in Richtung Cybersecurity weiterentwickelt._  
 _In ihrer Freizeit veröffentlicht sie Artikel auf ihrem Blog und Demo-Projekte auf Github._
 
 ## Ablauf 
