@@ -6,7 +6,7 @@ featured_image: ""
 description: "The Current State of Apache Maven 4 – Development"
 ---
 
-Es gibt in der Zwischenzeit schon eine Apache Maven Version 4.0.0 (ja noch in Alpha) Stadium, interessant ist nur, dass die Zahl der Benutzer doch sehr überschaubar ist.
+Es gibt in der Zwischenzeit schon eine Apache Maven Version 4.0.0 (ja noch in Beta) Stadium, interessant ist nur, dass die Zahl der Benutzer doch sehr überschaubar ist.
 
 Ich möchte in dem Vortrag die unterschiedlichen Verbesserungen von Apache 4.0.0 mithilfe von Beispielen darstellen.
 
@@ -20,16 +20,13 @@ Warum gibt es überhaupt eine Maven 3.9.X Release? Warum nicht direkt 4.0.0?
 
 Erweitert wird der Vortrag um Themen, die möglicherweise die Rückwärtskompatibilität brechen könnten. Des Weiteren schauen wir uns einmal die Projektstruktur des Apache Maven Projektes an, um einmal eine Übersicht über die unterschiedlichen Bereiche des Projektes zu erhalten.
 
-
 _Karl Heinz Marbaise ist Chairman des Apache Maven Projects, Apache Software Foundation Member, Mojo Haus Member, Java Developer, CI/CD Fan, Freelancer._
 
 ## Ablauf 
 
-_Bitte meldet euch bei Nuudle an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/JrXdCscvh8tbqAGs) an._
 
-Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
+Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
+Zum Einlass meldet euch bitte kurz am Empfang.
 
-Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
-
-Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
-Eine Aufzeichnung findet nicht statt.
+Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im [Apfelwein Frank](https://www.apfelweinwirtschaft-frank.de/).
