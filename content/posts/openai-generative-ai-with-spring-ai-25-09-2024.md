@@ -16,7 +16,7 @@ _In ihrer Freizeit veröffentlicht sie Artikel auf ihrem [Blog](https://lauralip
 
 ## Ablauf 
 
-_Bitte meldet euch bei Nuudle an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/bYMqx8OnOcCD6lmj) an._
 
 Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
