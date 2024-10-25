@@ -32,8 +32,6 @@ msg systems ag
 Amelia-Mary-Earhart-Straße 14  
 60549 Frankfurt
 
-![Anfahrt](/static/img/anfahrt_msg.png)
-
 statt, hier findet ihr mehr Informationen zum Ort und zur Anfahrt:
 https://www.msg.group/deutschland
 
