@@ -24,5 +24,21 @@ _Kai Schmidt ist freiberuflicher Software-Entwickler und -Architekt. Zuvor war e
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/8JZBdGoKFWEDOpFU) an._
+Der Vortrag findet bei
 
+```
+msg systems ag
+Amelia-Mary-Earhart-Straße 14
+60549 Frankfurt
+```
+
+statt, hier findet ihr mehr Informationen zum Ort und zur Anfahrt:
+https://www.msg.group/deutschland
+
+![Lage&Anfahrt](/static/res/anfahrt_msg.png)
+
+Der Veranstaltungsort ist ab 18:00 Uhr offen, der Vortrag wird gegen 18:30 starten.
+
+Anschließend gibt es vor Ort noch Pizza und die Gelegenheit zum Gespräch.
+
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/8JZBdGoKFWEDOpFU) an._
