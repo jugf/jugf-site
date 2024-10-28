@@ -25,7 +25,7 @@ _Kai Schmidt ist freiberuflicher Software-Entwickler und -Architekt. Zuvor war e
 ## Ablauf 
 
 
-**Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/8JZBdGoKFWEDOpFU) an._
+**Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/8JZBdGoKFWEDOpFU) an.**
 
 Der Vortrag findet bei
 
