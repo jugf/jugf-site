@@ -36,7 +36,7 @@ _Karl Heinz Marbaise ist Chairman des Apache Maven Projects, Apache Software Fou
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/FEpItYCiy5LcSzMt) an._
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
