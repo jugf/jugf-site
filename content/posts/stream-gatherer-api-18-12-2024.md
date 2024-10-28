@@ -6,6 +6,8 @@ featured_image: ""
 description: "Stream Gatherer API"
 ---
 
+Unser Weihnachtsevent befasst sich dieses Jahr mit der Stream Gatherer API. Wer mag, geht nach dem Event mit zum Essen & Trinken in den Apfelwein Frank ab 20:30.
+
 Mit dem JDK 24 (https://openjdk.org/projects/jdk/24/) wird das JDK um
 die Stream-Gatherer erweitert. Die ergänzen die Stream-API, um die
 Möglichkeit eigene intermediate Operationen zu implementieren.
