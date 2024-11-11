@@ -24,7 +24,6 @@ _Kai Schmidt ist freiberuflicher Software-Entwickler und -Architekt. Zuvor war e
 
 ## Ablauf 
 
-
 **Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/8JZBdGoKFWEDOpFU) an.**
 
 Der Vortrag findet bei
@@ -39,3 +38,5 @@ https://www.msg.group/deutschland
 Der Veranstaltungsort ist ab 18:00 Uhr offen, der Vortrag wird gegen 18:30 starten.
 
 Anschließend gibt es vor Ort noch Pizza und die Gelegenheit zum Gespräch.
+
+_Es gibt auch die Möglichkeit, online ab 18:30 unter https://meet.ijug.eu/JUG_Fra teilzunehmen._
