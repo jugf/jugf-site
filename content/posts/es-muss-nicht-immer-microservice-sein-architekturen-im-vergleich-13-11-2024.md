@@ -6,6 +6,8 @@ featured_image: ""
 description: "Es muss nicht immer Microservice sein: Architekturen im Vergleich"
 ---
 
+**Update 15.11.: Die Folien zum Vortrag sind [hier](res/20241115_nicht_immer_microservices.pdf)**
+
 > Wer als Werkzeug nur einen Hammer hat, sieht in jedem Problem einen Nagel
 
 Wenn man heutzutage von Architektur spricht, geht es häufig um Microservices. Architektur ist jedoch mehr. Microservices beschreibt eine Makro-Architektur und für die jeweiligen Services Mikro-Architekturen für deren inneren Aufbau. Hierfür können u.a. alt bekannte Layer-Architekturen, hexagonal Architekturen bzw. imperative oder reaktive Ansätze genutzt werden.
