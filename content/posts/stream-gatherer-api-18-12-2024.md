@@ -23,9 +23,14 @@ von Stream-Gatherers aufgezeigt.
 Möglichkeiten bieten Stream-Gatherers? 
 
 Es werden anhand von Beispielen,
-die unterschiedlichen Aspekte einer Nutzung dargestellt. Wie kann z.B.
-eine flexiblere distinctBy-Funktion erstellt werden? Ein indizierter
-Stream? Ein gleitendes Fenster auf den Stream-Daten? Eine Erstellung von
+die unterschiedlichen Aspekte einer Nutzung dargestellt. 
+
+* Wie kann z.B.
+eine flexiblere distinctBy-Funktion erstellt werden? 
+* Ein indizierter
+Stream? 
+* Ein gleitendes Fenster auf den Stream-Daten? 
+* Eine Erstellung von
 Gruppen auf den Stream-Daten und einiges mehr.
 
 _Lernziele_
