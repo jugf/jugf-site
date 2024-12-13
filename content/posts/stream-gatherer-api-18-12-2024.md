@@ -15,15 +15,20 @@ Möglichkeit eigene intermediate Operationen zu implementieren.
 Die aktuell Stream-API hat hier gewissen Limitierungen, die zwar lösbar
 sind, aber nicht unbedingt zu einfachem und wartbarem Code führen. Im
 Rahmen des Vortrages werden genauer Einblicke in die Idee und Anwendung
-von Stream-Gatherers aufgezeigt. Welches Problem lösen Stream-Gatherer?
-Wie verhalten sich Stream-Gatherers im Vergleich zu Collectors? Welche
-Möglichkeiten bieten Stream-Gatherers? Es werden anhand von Beispielen,
+von Stream-Gatherers aufgezeigt. 
+
+* Welches Problem lösen Stream-Gatherer?
+* Wie verhalten sich Stream-Gatherers im Vergleich zu Collectors? 
+* Welche
+Möglichkeiten bieten Stream-Gatherers? 
+
+Es werden anhand von Beispielen,
 die unterschiedlichen Aspekte einer Nutzung dargestellt. Wie kann z.B.
 eine flexiblere distinctBy-Funktion erstellt werden? Ein indizierter
 Stream? Ein gleitendes Fenster auf den Stream-Daten? Eine Erstellung von
 Gruppen auf den Stream-Daten und einiges mehr.
 
-Lernziele:
+_Lernziele_
 
 * Einsatzmöglichkeiten von Stream-Gatherers.
 * Integration und Abgrenzung von Collectoren.
@@ -31,7 +36,8 @@ Lernziele:
 * Vorstellung von Beispielimplementierungen.
 * Vergleich mit anderen Lösungen.
 
-Vorkenntnisse:
+_Vorkenntnisse_
+
 * JDK 8+ - Java Stream API Kenntnisse werden benötigt.
 
 _Karl Heinz Marbaise ist Chairman des Apache Maven Projects, Apache Software Foundation Member, Mojo Haus Member, Java Developer, CI/CD Fan, Freelancer._
