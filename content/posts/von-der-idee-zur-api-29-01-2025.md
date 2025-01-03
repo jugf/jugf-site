@@ -1,5 +1,5 @@
 ---
-title: "25.09.2024: Von der Idee zur API"
+title: "29.01.2024: Von der Idee zur API"
 date: 2025-01-02T00:00:02+01:00
 draft: false
 featured_image: ""
