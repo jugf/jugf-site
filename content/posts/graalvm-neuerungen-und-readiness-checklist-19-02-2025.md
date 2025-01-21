@@ -1,6 +1,6 @@
 ---
 title: "19.02.2025: GraalVM - Neuerungen und Readiness Checklist"
-date: 2025-01-21T00:00:02+01:00
+date: 2025-01-20T00:00:02+01:00
 draft: false
 featured_image: ""
 description: "GraalVM - Neuerungen und Readiness Checklist"
