@@ -5,6 +5,11 @@ draft: false
 featured_image: ""
 description: "Von der Idee zur API"
 ---
+**Update 30.01.: Die Links aus dem Vortrag:**
+
+* Miro Board: https://miro.com/app/board/uXjVLnegDww=/?share_link_id=858464571590
+* REST-Skeleton für AI-generierte OpenAPI: https://github.com/Grinseteddy/MasteringDdd/blob/main/Chapter11-ExposingAggregatesViaApis/RestApis/RestSkeleton.yaml
+* Async-API Skeleton: https://github.com/Grinseteddy/MasteringDdd/blob/main/Chapter12-ExposingDomainEvents/AsyncApis/AsyncSkeleton.yaml
 
 Der Vortrag diskutiert ein prototypisches Vorgehen anhand eines Beispiels. Es werden die Methoden Domain Storytelling und Event Storming benutzt. Aus der daraus folgenden Context Map entstehen schöne APIs, die Entwickler nicht hassen.
 
