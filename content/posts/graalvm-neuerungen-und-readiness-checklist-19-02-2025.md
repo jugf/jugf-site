@@ -6,7 +6,7 @@ featured_image: ""
 description: "GraalVM - Neuerungen und Readiness Checklist"
 ---
 
-**Update 20.02.: Die Folien zum Vortrag sind hier: [GraalVM for JDK 23](/static/res/20250219_graalvm_for_jdk_23.pdf)**
+**Update 20.02.: Die Folien zum Vortrag sind hier: [GraalVM for JDK 23](/res/20250219_graalvm_for_jdk_23.pdf)**
 
 Die Oracle GraalVM ist eine Java-Laufzeitumgebung für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im September 2024 wurde das Release "GraalVM for JDK 23" freigegeben, mit Performanceverbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. 
 
