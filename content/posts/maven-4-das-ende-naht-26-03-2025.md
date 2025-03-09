@@ -28,8 +28,7 @@ Die möglichen brechenden Änderungen für Plugins, dazu zählt z.B. der Wegfall
 
 Wie kann man Plugins prüfen, ob die mit Maven 4 laufen werden?
 
-_Karl-Heinz Marbaise ist Software Entwickler, Java, Maven, Jenkins, Docker, Jenkins, Nexus, Java Champion, Apache Maven PMC, Apache Software Foundation Member. Mehr unter https://sessionize.com/khmarbaise/ _
-__
+_Karl-Heinz Marbaise ist Software Entwickler, Java, Maven, Jenkins, Docker, Jenkins, Nexus, Java Champion, Apache Maven PMC, Apache Software Foundation Member. Mehr unter https://sessionize.com/khmarbaise/ ._
 
 ## Ablauf 
 
