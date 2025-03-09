@@ -14,11 +14,9 @@ Da sind z.B. Punkte, wie Consumer vs. Build POM zu nennen. Oder die Verbesserung
 
 Die einfache Möglichkeit, die Versionen dynamisch zu ändern.
 
-Die Konfigurationsmöglichkeiten für Verzeichnisse in Builds,
-sprich wo ist das Top-Verzeichnis des Projekte usw.
+Die Konfigurationsmöglichkeiten für Verzeichnisse in Builds, sprich wo ist das Top-Verzeichnis des Projekte usw.
 
-Verbesserung der Auswahl von Profilen oder auch Warnungen
-bzgl. nicht vorhandenen Profilen.
+Verbesserung der Auswahl von Profilen oder auch Warnungen bzgl. nicht vorhandenen Profilen.
 
 Desweiteren sind zu nennen die Ergänzungen, Erweiterung des Life Cycles (before: / after:).
 
@@ -30,12 +28,12 @@ Die möglichen brechenden Änderungen für Plugins, dazu zählt z.B. der Wegfall
 
 Wie kann man Plugins prüfen, ob die mit Maven 4 laufen werden?
 
-_Software Entwickler, Java, Maven, Jenkins, Docker, Jenkins, Nexus, Java Champion, Apache Maven PMC, Apache Software Foundation Member. Mehr unter https://sessionize.com/khmarbaise/_
+_Karl-Heinz Marbaise ist Software Entwickler, Java, Maven, Jenkins, Docker, Jenkins, Nexus, Java Champion, Apache Maven PMC, Apache Software Foundation Member. Mehr unter https://sessionize.com/khmarbaise/ _
 __
 
 ## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/WISvmCVl69nOcOH9) an._
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
