@@ -1,6 +1,6 @@
 ---
 title: "26.03.2025: Maven 4 - Das Ende naht"
-date: 2025-08-03T00:00:02+01:00
+date: 2025-03-08T00:00:02+01:00
 draft: false
 featured_image: ""
 description: "Maven 4 - Das Ende naht"
@@ -20,11 +20,9 @@ sprich wo ist das Top-Verzeichnis des Projekte usw.
 Verbesserung der Auswahl von Profilen oder auch Warnungen
 bzgl. nicht vorhandenen Profilen.
 
-Desweiteren sind zu nennen die Ergänzungen, Erweiterung
-des Life Cycles (before: / after:).
+Desweiteren sind zu nennen die Ergänzungen, Erweiterung des Life Cycles (before: / after:).
 
-Die Umstellung von Multi-Module Projekten auf Multi-Projekt Builds.
-Das ist eine Umstellung der Begrifflichkeit als auch der POM Datei.
+Die Umstellung von Multi-Module Projekten auf Multi-Projekt Builds.Das ist eine Umstellung der Begrifflichkeit als auch der POM Datei.
 
 Die Möglichkeit eine alternative POM Syntax zu verwenden.
 
