@@ -12,14 +12,13 @@ Dabei beleuchten wir gemeinsam die Nach- und Vorteile der Technik und vergleiche
 Zusätzlich loten wir mögliche Szenarien für den produktiven Einsatz aus. Dabei erhält die Verbindung des Constraint Programming mit der Architektur des Gesamtsystems besondere Aufmerksamkeit.
 
 
-~~Heiko Spindler ist seit über 22 Jahren als Softwarearchitekt und Softwareentwickler in vielen Projekten unterschiedlicher Branchen als Freelancer tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er ist zertifizierter ScrumMaster (CSM ScrumAlliance), zertifizierter Softwarearchitekt und schreibt regelmäßig Artikel.~~
+_Heiko Spindler ist seit über 22 Jahren als Softwarearchitekt und Softwareentwickler in vielen Projekten unterschiedlicher Branchen als Freelancer tätig. Seine Aufgaben umfassen das Aufsetzen von Projekten sowie die Betreuung über den gesamten Entwicklungszyklus. Er ist zertifizierter ScrumMaster (CSM ScrumAlliance), zertifizierter Softwarearchitekt und schreibt regelmäßig Artikel._
 
 
 ## Ablauf 
 
 
-~~_Bitte meldet euch bei [Nuudle] an._~~
-
+~~_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/naHTshAf7dOPJrtw) an._~~
 
 ~~Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.~~
