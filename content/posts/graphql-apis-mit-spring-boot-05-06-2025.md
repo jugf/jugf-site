@@ -14,7 +14,7 @@ _Nils Hartmann ist freiberuflicher Software-Entwickler und -Architekt. Er entwic
 
 ## Ablauf 
 
-Bitte meldet euch bei [Nuudle] an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/OXGst57kBpwcPOHp) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
