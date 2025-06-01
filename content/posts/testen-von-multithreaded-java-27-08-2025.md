@@ -6,10 +6,10 @@ featured_image: ""
 description: "Testen von concurrent, multi-threaded Java"
 ---
 
-Ich will zeigen, dass:
+Thomas wird zeigen, dass:
 
-a) Ein 20-jähriger Java Specification Request, JSR‑133, das Testen von concurrent, multi‑threaded Java ermöglicht.
-b) Durch Test Driven Design das Entwickeln von _concurrent, multi‑threaded_ Anwendungen einfacher wird.
+a) Ein 20-jähriger Java Specification Request, JSR‑133, das Testen von concurrent, multi‑threaded Java ermöglicht.  
+b) Durch Test Driven Design das Entwickeln von _concurrent, multi‑threaded_ Anwendungen einfacher wird.  
 
 Stell dich auf etwas Theorie und viele praktische Beispiele ein.
 
