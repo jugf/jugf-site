@@ -1,7 +1,7 @@
 ---
 title: "27.08.2025: Testen von concurrent, multi-threaded Java"
 date: 2025-06-01T00:00:02+02:00
-draft: true
+draft: false
 featured_image: ""
 description: "Testen von concurrent, multi-threaded Java"
 ---
@@ -17,7 +17,7 @@ _Thomas Krieger ist als selbständiger Software‑Entwickler im Java‑Umfeld u
 
 ## Ablauf
 
-Bitte meldet euch bei [Nuudle] an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/qHYCt9IcPvuWNgQI) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
