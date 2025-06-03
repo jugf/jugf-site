@@ -1,6 +1,6 @@
 ---
 title: "25.06.2025: Constraint Programming - Aufgaben Beschreiben statt selbst Lösungen programmieren"
-date: 2025-05-29T00:00:00+00:53
+date: 2025-05-27T00:00:00+00:53
 draft: false
 featured_image: ""
 description: "Constraint Programming - Aufgaben Beschreiben statt selbst Lösungen programmieren"
