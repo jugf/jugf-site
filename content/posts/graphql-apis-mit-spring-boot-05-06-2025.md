@@ -1,10 +1,12 @@
 ---
-title: "05.06.2025: GraphQL APIs mit Spring Boot - eine praktische Einführung"
-date: 2025-05-28T00:00:00+02:00
+title: "24.09.2025: GraphQL APIs mit Spring Boot - eine praktische Einführung"
+date: 2025-05-30T00:00:00+02:00
 draft: false
 featured_image: ""
 description: "GraphQL APIs mit Spring Boot - eine praktische Einführung"
 ---
+
+**ACHTUNG: Der Vortrag wird auf den 24.09. verschoben.**
 
 Die Sprache GraphQL bzw. GraphQL APIs versetzen Clients in die Lage, exakt die Daten abzufragen, die sie benötigen – nicht mehr und nicht weniger. Gleichzeitig werden GraphQL APIs häufig als Alternative zu REST APIs gesehen und lösen in Diskussionen teils euphorische Erwartungen, teils aber auch Kritik aus: von zu großer Komplexität über fehlendes Caching, schlechte Performance und Sicherheitsprobleme.
 
