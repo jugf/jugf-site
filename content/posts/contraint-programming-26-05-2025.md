@@ -5,6 +5,7 @@ draft: false
 featured_image: ""
 description: "Constraint Programming - Aufgaben Beschreiben statt selbst Lösungen programmieren"
 ---
+**Update 30.06.: Die Slides zum Vortrag [sind angehängt.](/res/20250625_ConstraintProgramming_HeikoSpindler.pdf)**
 
 Constaint Programming (CP) ist ein Ansatz, bei dem mehr Wert auf die Beschreibung der Bedingungen einer optimalen Lösung für eine Aufgabenstellung gelegt wird. Man muss den Lösungsweg für die Aufgabenstellung nicht selbst erfinden.
 
