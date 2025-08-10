@@ -1,6 +1,6 @@
 ---
 title: "27.08.2025: Testen von concurrent, multi-threaded Java"
-date: 2025-06-01T00:00:02+02:00
+date: 2025-08-09T00:00:02+02:00
 draft: false
 featured_image: ""
 description: "Testen von concurrent, multi-threaded Java"
