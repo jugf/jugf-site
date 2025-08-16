@@ -21,7 +21,9 @@ _Thomas Krieger ist als selbständiger Software‑Entwickler im Java‑Umfeld u
 
 Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/qHYCt9IcPvuWNgQI) an.
 
-Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
-Zum Einlass meldet euch bitte kurz am Empfang.
+Der JUGF-Stammtisch findet _als Online-Veranstaltung_ auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
-Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im [Apfelwein Frank](https://www.apfelweinwirtschaft-frank.de/).
+Wir sind ab ca. 18:15 Uhr dort eingeloggt. Es wäre schön, wenn der Realname angegeben und die Kamera aktiviert werden.
+
+Wir veranstalten ein Meeting, keine Konferenz. Wir freuen uns daher, wenn wir uns gegenseitig sehen und hören können.
+Eine Aufzeichnung findet nicht statt.
