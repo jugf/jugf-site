@@ -6,6 +6,8 @@ featured_image: ""
 description: "Testen von concurrent, multi-threaded Java"
 ---
 
+**Achtung Änderung: der Vortrag findet remote statt, _nicht_ vor Ort in der DNB!**
+
 Thomas stellt _VMLens_, ein Werkzeug zum Testen von multi-threaded, concurrent Java Anwendungen vor. 
 
 Er will zeigen, dass:
