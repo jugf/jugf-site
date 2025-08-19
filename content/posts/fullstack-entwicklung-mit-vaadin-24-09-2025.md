@@ -16,7 +16,7 @@ _Sebastian ist seit zwei Jahrzehnten Java-Enthusiast und hat sich während seine
 
 ## Ablauf 
 
-Bitte meldet euch bei an._
+Bitte meldet euch bei [Nuudel](https://nuudel.digitalcourage.de/2epvS2zJ1kA4KdFZ) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
