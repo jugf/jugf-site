@@ -8,7 +8,7 @@ description: "Testen von concurrent, multi-threaded Java"
 
 **Achtung Änderung: der Vortrag findet remote statt, _nicht_ vor Ort in der DNB!**
 
-Thomas stellt _VMLens_, ein Werkzeug zum Testen von multi-threaded, concurrent Java Anwendungen vor. 
+Thomas stellt [VMLens](https://vmlens.com/), ein Werkzeug zum Testen von multi-threaded, concurrent Java Anwendungen vor. 
 
 Er will zeigen, dass:
 
@@ -17,7 +17,7 @@ b) Durch Test Driven Design das Entwickeln von _concurrent, multi‑threaded_ An
 
 Stell dich auf etwas Theorie und viele praktische Beispiele ein.
 
-_Thomas Krieger ist als selbständiger Software‑Entwickler im Java‑Umfeld unterwegs ... Er hat u.a. das Open‑Source‑Werkzeug VMLens zum Test von multi‑threaded, concurrent Java geschrieben._
+_Thomas Krieger ist als selbständiger Software‑Entwickler im Java‑Umfeld unterwegs ... Er hat u.a. das Open‑Source‑Werkzeug [VMLens](https://vmlens.com/) zum Test von multi‑threaded, concurrent Java geschrieben._
 
 ## Ablauf
 
