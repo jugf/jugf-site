@@ -19,6 +19,8 @@ Die Teilnehmer erhalten einen umfassenden Überblick, wie Structr 6.0 Entwickler
 
 _Axel Morgner ist Mitgründer und Geschäftsführer der Structr GmbH in Frankfurt am Main. Als ausgebildeter Physiker nutzt er schon immer Software als Werkzeuge zur Problemlösung, und mit dem Structr-Projekt verfolgen sein Team und er seit 12 Jahren die Vision, Softwareentwicklung mithilfe der Graphtechnologie zu vereinfachen und auch Menschen ohne Spezialkenntnisse zugänglich zu machen._
 
+---
+
 ## Ablauf 
 
 Bitte meldet euch bei [Nuudle] an._
