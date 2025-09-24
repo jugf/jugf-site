@@ -1,6 +1,6 @@
 ---
 title: "29.10.2025: Structr 6.0 – Graph-basierte Low-Code-Entwicklung mit Java-Power und KI-Integration"
-date: 2025-09-24T00:00:02+01:00
+date: 2025-09-23T00:00:02+01:00
 draft: false
 featured_image: ""
 description: "Structr 6.0: Graph-basierte Low-Code-Entwicklung mit Java-Power und KI-Integration"
