@@ -23,7 +23,7 @@ _Axel Morgner ist Mitgründer und Geschäftsführer der Structr GmbH in Frankfur
 
 ## Ablauf 
 
-Bitte meldet euch bei [Nuudle] an._
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/4RpEhvRGnzH4GVTt) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).  
 Zum Einlass meldet euch bitte kurz am Empfang.
