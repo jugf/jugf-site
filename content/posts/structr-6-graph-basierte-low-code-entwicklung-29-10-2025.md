@@ -6,8 +6,9 @@ featured_image: ""
 description: "Structr 6.0: Graph-basierte Low-Code-Entwicklung mit Java-Power und KI-Integration"
 ---
 
-In diesem Vortrag stellt **Axel Morgner** die neuen Features von **Structr 6.0** vor – der aktuellen Version der graph-basierten Low-Code-Plattform auf Neo4j-Basis.  
-Im Mittelpunkt stehen die Java-technischen Innovationen: die Integration von **GraalVM** für performante Polyglot-Scripting-Umgebungen, die Nutzung von **Jetty 12** als moderne Servlet-Engine sowie die nahtlose Einbindung der **Neo4j Vector Search** für KI-gestützte Anwendungen.
+In diesem Vortrag stellt **Axel Morgner** die neuen Features von **Structr 6.0** vor – der aktuellen Version der **graph-basierten Low-Code-Plattform auf Neo4j-Basis**.
+
+Im Mittelpunkt stehen die Java-technischen Innovationen: die Integration von **GraalVM** für performante Polyglot-Scripting-Umgebungen, die Nutzung von Jetty 12 als moderne Servlet-Engine sowie die nahtlose Einbindung der **Neo4j Vector Search** für KI-gestützte Anwendungen.
 
 Zu den Highlights gehören **MCP-Tools** für die Entwicklung durch LLM-Prompts und KI-Agenten sowie die Einführung von **Traits mit echter Mehrfachvererbung**, die eine flexiblere, modulare Modellierung komplexer Datenstrukturen ermöglicht.  
 
