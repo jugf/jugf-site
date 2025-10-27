@@ -26,7 +26,13 @@ _Axel Morgner ist Mitgründer und Geschäftsführer der Structr GmbH in Frankfur
 
 Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/4RpEhvRGnzH4GVTt) an.
 
-Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).  
+
+Dies ist eine Präsenzveranstaltung im Raum 436 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).  
+
+_Achtung: abweichender Raum!_
+
+436 ist im gleichen Stockwerk (Dachgeschoss), aber in dem langen Gang am komplett anderen Ende wie der übliche 404.
+
 Zum Einlass meldet euch bitte kurz am Empfang.
 
 Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im [Apfelwein Frank](https://www.apfelweinwirtschaft-frank.de/).
