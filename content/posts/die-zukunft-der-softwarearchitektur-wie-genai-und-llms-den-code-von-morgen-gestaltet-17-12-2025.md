@@ -26,7 +26,7 @@ _Wenn Ralf nicht gerade in die Glaskugel der Softwareentwicklung schaut, findet 
 
 Am **17.12.2025** treffen wir uns ab **18:30 Uhr** in der Deutschen Nationalbibliothek in Frankfurt am Main.
 
-Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/) an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/mjefNBGFqdQpdzTX) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).  
 Zum Einlass meldet euch bitte kurz am Empfang.
