@@ -16,7 +16,7 @@ Wir treffen uns _jeden letzten Mittwoch eines Monats_ bis auf weiteres auf der V
 
 ## Weitere Informationen zur JUGF
 
-Termine als [ICS](https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics). News per [Twitter](https://twitter.com/jugffm) oder [Google Groups](http://groups.google.de/group/jugf-java-user-group-frankfurt?hl=de).
+Termine als [ICS](https://www.google.com/calendar/ical/ph4apb66ubb1gdt40rrnijaec8%40group.calendar.google.com/public/basic.ics). News per [Twitter](https://twitter.com/jugffm) oder [Google Groups](https://groups.google.com/g/jugf-java-user-group-frankfurt).
 
 ## Impressum
 
