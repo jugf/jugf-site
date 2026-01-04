@@ -21,7 +21,7 @@ _Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE
 
 ## Ablauf
 
-Bitte meldet euch bei [Nuudle]() an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/ar8LyKNWWdGf43bm) an.
 
 Dies ist eine Präsenzveranstaltung im **Raum 404 der Deutschen Nationalbibliothek Frankfurt**.  
 Zum Einlass meldet euch bitte kurz am Empfang.
