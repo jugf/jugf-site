@@ -28,7 +28,7 @@ Henning ist Autor von *Domain Storytelling* (Addison-Wesley, 2022) und *Domain-D
 
 Bitte meldet euch bei **[Nuudle](https://nuudel.digitalcourage.de/zetClHBh1am9oMla)** an.
 
-Dies ist eine Präsenzveranstaltung im Raum 404 der **Deutschen Nationalbibliothek Frankfurt**.  
+Dies ist eine Präsenzveranstaltung im Raum 404 der **Deutschen Nationalbibliothek**: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).  
 Zum Einlass meldet euch bitte kurz am Empfang.
 
-Die Veranstaltung endet gegen 20 Uhr, danach gehen wir noch gemeinsam Essen & Trinken im **Apfelwein Frank**.
+Die Veranstaltung endet um 20 Uhr, danach gehen wir noch Essen & Trinken im **[Apfelwein Frank](https://www.apfelweinwirtschaft-frank.de/)**.
