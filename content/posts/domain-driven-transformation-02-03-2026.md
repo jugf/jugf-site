@@ -5,9 +5,8 @@ draft: false
 featured_image: ""
 description: "Domain-Driven Transformation — Modularisierung und Modernisierung von Legacy-Software"
 ---
-
-## Domain-Driven Transformation  
-### Modularisierung und Modernisierung von Legacy-Software
+ 
+## Modularisierung und Modernisierung von Legacy-Software
 
 Ein neues Projekt auf der grünen Wiese zu starten ist das eine – gewachsene Legacy-Systeme mit chaotischer Architektur zu übernehmen etwas völlig anderes.  
 Viele Teams erben Systeme, die als *Monolith* oder gar als *Big Ball of Mud* beschrieben werden. Dieser Vortrag zeigt, wie man solchen Herausforderungen strukturiert begegnet.
@@ -22,13 +21,12 @@ Der Vortrag vermittelt konkrete Strategien zur Bewältigung typischer Probleme, 
 
 Am Ende der Session verfügen die Teilnehmenden über einen Werkzeugkasten aus bewährten Refactorings, praxisnahen Heuristiken und konkreten Techniken, mit denen sie ihre eigenen Projekte unmittelbar weiterentwickeln können.
 
-_Henning lebt seine Leidenschaft für hochwertige Softwareentwicklung als Entwickler, Coach und Berater bei WPS – Workplace Solutions. Dort unterstützt er Teams dabei, bestehende Monolithen zu strukturieren oder neue Systeme von Beginn an mit nachhaltiger Architektur aufzubauen.  
-Häufig entstehen daraus Microservices oder selbstständig deploybare Systeme.  
+_Henning lebt seine Leidenschaft für hochwertige Softwareentwicklung als Entwickler, Coach und Berater bei WPS – Workplace Solutions. Dort unterstützt er Teams dabei, bestehende Monolithen zu strukturieren oder neue Systeme von Beginn an mit nachhaltiger Architektur aufzubauen. Häufig entstehen daraus Microservices oder selbstständig deploybare Systeme.  
 Henning ist Autor von *Domain Storytelling* (Addison-Wesley, 2022) und *Domain-Driven Transformation* (O’Reilly, 2026)._
 
 ## Ablauf
 
-Bitte meldet euch bei **Nuudle** an.
+Bitte meldet euch bei **[Nuudle](https://nuudel.digitalcourage.de/zetClHBh1am9oMla)** an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der **Deutschen Nationalbibliothek Frankfurt**.  
 Zum Einlass meldet euch bitte kurz am Empfang.
