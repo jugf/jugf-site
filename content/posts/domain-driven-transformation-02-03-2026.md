@@ -22,7 +22,7 @@ Der Vortrag vermittelt konkrete Strategien zur Bewältigung typischer Probleme, 
 Am Ende der Session verfügen die Teilnehmenden über einen Werkzeugkasten aus bewährten Refactorings, praxisnahen Heuristiken und konkreten Techniken, mit denen sie ihre eigenen Projekte unmittelbar weiterentwickeln können.
 
 _Henning lebt seine Leidenschaft für hochwertige Softwareentwicklung als Entwickler, Coach und Berater bei WPS – Workplace Solutions. Dort unterstützt er Teams dabei, bestehende Monolithen zu strukturieren oder neue Systeme von Beginn an mit nachhaltiger Architektur aufzubauen. Häufig entstehen daraus Microservices oder selbstständig deploybare Systeme.  
-Henning ist Autor von *Domain Storytelling* (Addison-Wesley, 2022) und *Domain-Driven Transformation* (O’Reilly, 2026)._
+Henning ist Autor von *Domain Storytelling* (Addison-Wesley, 2022) und *Domain-Driven Transformation* (O’Reilly, 2026) sowie auf [www.leasingninja.io](http://www.leasingninja.io)._
 
 ## Ablauf
 
