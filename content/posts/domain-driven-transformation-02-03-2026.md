@@ -8,21 +8,13 @@ description: "Domain-Driven Transformation — Modularisierung und Modernisierun
  
 ## Modularisierung und Modernisierung von Legacy-Software
 
-Ein neues Projekt auf der grünen Wiese zu starten ist das eine – gewachsene Legacy-Systeme mit chaotischer Architektur zu übernehmen etwas völlig anderes.  
-Viele Teams erben Systeme, die als *Monolith* oder gar als *Big Ball of Mud* beschrieben werden. Dieser Vortrag zeigt, wie man solchen Herausforderungen strukturiert begegnet.
+Wie man ein neues Projekt auf der grünen Wiese beginnt und dabei eine saubere Architektur baut, das wissen wir heute ganz gut. Aber die meisten von uns arbeiten ja in Projekten, die schon lange da sind und deren Architektur (vorsichtig gesagt) nicht mehr ganz so schön ist. »Monolith« und »Big Ball of Mud« sind die wenig schmeichelhaften Titel, die solchen Systemen verpasst werden.
 
-Die Teilnehmenden lernen, ihre bestehenden Systeme gezielt zu analysieren und konkrete Schritte zu identifizieren, um Struktur einzuführen – oder wiederherzustellen.  
-Mithilfe von **Collaborative Modeling** erhalten sie praxisnahe Impulse, um eine klare und zukunftsfähige Architektur zu entwerfen.
+Die Teilnehmer lernen, wie sie ihre aktuellen Systeme bewerten und Schritte zur Einführung – oder Wiederherstellung – von Strukturen identifizieren können. Mithilfe von Collaborative Modeling erhalten die Teilnehmer umsetzbare Erkenntnisse, um eine klare und zukunftsfähige Architektur zu entwerfen.
 
-Der Vortrag vermittelt konkrete Strategien zur Bewältigung typischer Probleme, unter anderem:
-- Big-Ball-of-Mud-Architekturen  
-- Anämische Domänenmodelle  
-- Unklar strukturierte oder überlastete Teams  
+Der Vortrag vermittelt den Teilnehmern praktische Strategien zur Bewältigung gängiger Herausforderungen, wie z. B. BBOM-Architektur, anämische Domänenmodelle und unorganisierte Teams. Am Ende der Sitzung verfügen die Teilnehmer über einen Katalog bewährter Refactorings, umsetzbarer Heuristiken und konkreter Tools, um ihre eigenen Projekte sofort weiterzuentwickeln.
 
-Am Ende der Session verfügen die Teilnehmenden über einen Werkzeugkasten aus bewährten Refactorings, praxisnahen Heuristiken und konkreten Techniken, mit denen sie ihre eigenen Projekte unmittelbar weiterentwickeln können.
-
-_Henning lebt seine Leidenschaft für hochwertige Softwareentwicklung als Entwickler, Coach und Berater bei WPS – Workplace Solutions. Dort unterstützt er Teams dabei, bestehende Monolithen zu strukturieren oder neue Systeme von Beginn an mit nachhaltiger Architektur aufzubauen. Häufig entstehen daraus Microservices oder selbstständig deploybare Systeme.  
-Henning ist Autor von *Domain Storytelling* (Addison-Wesley, 2022) und *Domain-Driven Transformation* (O’Reilly, 2026) sowie auf [www.leasingninja.io](http://www.leasingninja.io)._
+_Henning liebt Programmieren in hoher Qualität. Diese Leidenschaft lebt er als Coder, Coach und Consultant bei der WPS – Workplace Solutions aus. Dort hilft er Teams dabei, Ihre gewachsenen Monolithen zu strukturieren oder neue Systeme von Anfang an mit einer tragfähigen Architektur zu errichten. Häufig kommen dann Microservices oder Self-Contained Systems heraus. Henning ist Autor von »Domain Storytelling« (Addison-Wesley, 2022), »Domain-Driven Transformation« (O’Reilly, 2026) und dem [www.leasingninja.io](http://www.leasingninja.io)._
 
 ## Ablauf
 
