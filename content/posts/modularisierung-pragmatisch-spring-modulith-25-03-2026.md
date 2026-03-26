@@ -6,6 +6,8 @@ featured_image: ""
 description: "Modularisierung pragmatisch - ein Deep Dive in Spring Modulith"
 ---
 
+**Update 26.03.: Das Repo und die Slides sind [hier](https://nilshartmann.net/t/modularisierung-pragmatisch-ein-deep-dive-in-spring-modulith-java-user-group-frankfurt)**
+
 Für den langfristigen Erfolg einer Anwendung ist unter anderem entscheidend, ob eine klare Architektur eingehalten wird. Damit wird sichergestellt, dass unser Code jederzeit wartbar bleibt und wir so zügig neue Features entwickeln können, ohne dabei Abstriche an der Qualität machen zu müssen. Um dieses Ziel zu erreichen, werden Anwendung oft in fachlich getrennte Module zerlegt, die möglichst stark entkoppelt sind. Dabei kann uns das Project Spring Modulith unterstützen.
 
 Spring Modulith ermöglicht es uns, innerhalb unser Spring Boot-Anwendung Module und Architekturregeln zu definieren und deren Einhaltung zu kontrollieren. Die Verwendung von Events zur Kommunikation zwischen den Modulen führt zu einer weiteren Entkopplung. Das Ergebnis ist ein "modularisierter Monolith" (oder kurz: "Modulith"), dessen Module sich dank der Entkopplung auch gut isoliert testen lassen.
