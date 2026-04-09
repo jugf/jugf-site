@@ -2,7 +2,7 @@
 title: "29.04.2026: 30 Jahre Schnittstellen - Ein Rückblick - Was haben wir gelernt?"
 date: 2026-04-08T10:41:54+01:00
 draft: false
-featured_image: "/img/30JahreAPIs.png"
+featured_image: "img/30JahreAPIs.png"
 description: "30 Jahre Schnittstellen - Ein Rückblick - Was haben wir gelernt?"
 ---
 
