@@ -20,7 +20,7 @@ _Gernot Schulmeister ist Full Stack Entwickler mit Schwerpunkt auf Java. Zur Zei
 
 Beginn ist um 18:30 Uhr.
 
-Bitte meldet euch bei [Nuudle] an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/MrNUPO3Zi9JGoTQB) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 
