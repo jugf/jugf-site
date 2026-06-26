@@ -6,6 +6,8 @@ featured_image: ""
 description: "JavaFX UI Technologie als zentraler Baustein im Java Ökosystem"
 ---
 
+**Update 26.06.: Die Folien zum Vortrag können bei Wolfgang angefragt werden unter wolfgang.weigend@oracle.com**
+
 Aufgrund der Kundennachfrage, des Interesses aus der Wissenschaft und des wachsenden Bedarfs an fortschrittlichen Visualisierungen in AI-gestützten Anwendungen und Analysen führt Oracle die kommerzielle Unterstützung für JavaFX wieder ein.
 
 Zur Entwicklung von Java Desktop-Anwendungen sind Funktionen wie UI-Steuerelemente, Diagramme, interaktive Medien, Webinhalte, Animationen, CSS-Styling, 2D- und 3D-Rendering, Rich Text und Property Binding erforderlich – und das alles in einem benutzerfreundlichen, plattformübergreifenden Programmierparadigma.
