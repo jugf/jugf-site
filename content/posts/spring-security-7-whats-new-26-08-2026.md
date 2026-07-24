@@ -14,7 +14,7 @@ _Laura Liparulo arbeitet als Senior Fullstack-Entwicklerin sowie Cybersecurity- 
 
 ## Ablauf
 
-Bitte meldet euch bei [Nuudle]() an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/zrPkv34vzrCMz4Iu) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
