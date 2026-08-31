@@ -16,7 +16,7 @@ _Meet Ronald Dehuysser, a software architect from Belgium and creator of JobRunr
 
 ## Ablauf
 
-Bitte meldet euch bei [Nuudle]() an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/RCtuQXzwqIKLpUNO) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5).
 Zum Einlass meldet euch bitte kurz am Empfang.
