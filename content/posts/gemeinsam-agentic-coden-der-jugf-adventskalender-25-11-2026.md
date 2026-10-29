@@ -16,7 +16,7 @@ Einen Laptop könnt ihr gerne mitbringen, müsst ihr aber nicht. Ihr könnt mitc
 
 ## Ablauf
 
-Bitte meldet euch bei [Nuudle]() an.
+Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/ql8DAbHwSnHrMK3R) an.
 
 Dies ist eine Präsenzveranstaltung im Raum 404 der Deutschen Nationalbibliothek: [Anfahrt](https://www.dnb.de/DE/Benutzung/Frankfurt/frankfurt_node.html#doc57382bodyText5). Zum Einlass meldet euch bitte kurz am Empfang.
 
